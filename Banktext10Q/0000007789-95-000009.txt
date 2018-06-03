@@ -1,0 +1,1699 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ FawGQuayHwc7tPfr2GgQBSF/jq3iiVUFI1Z1ckWGUndoqYYHVJ56I0316VryB+rp
+ Luv04QbLEYIA/uD96Vd/TA==
+
+<IMS-DOCUMENT>0000007789-95-000009.txt : 19950530
+<IMS-HEADER>0000007789-95-000009.hdr.sgml : 19950530
+ACCESSION NUMBER:		0000007789-95-000009
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19950331
+FILED AS OF DATE:		19950515
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASSOCIATED BANC-CORP
+		CENTRAL INDEX KEY:			0000007789
+		STANDARD INDUSTRIAL CLASSIFICATION:	6022
+		IRS NUMBER:				391098068
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-05519
+		FILM NUMBER:		95538417
+
+	BUSINESS ADDRESS:	
+		STREET 1:		112 NORTH ADAMS ST
+		STREET 2:		P O BOX 13307
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+		BUSINESS PHONE:		4144333166
+
+	MAIL ADDRESS:	
+		STREET 1:		112 NORTH ADAMS STREET
+		STREET 2:		P O BOX 13307
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54307-3307
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASSOCIATED BANK SERVICES INC
+		DATE OF NAME CHANGE:	19770626
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+
+                        SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, D.C.  20549                           
+                     
+                                    FORM 10-Q
+
+(Mark One)
+
+    X       QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES  
+_________                       EXCHANGE ACT OF 1934
+                     For the quarterly period ended March 31, 1995
+
+                                         OR
+
+            TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+_________                        EXCHANGE ACT OF 1934
+            For the transition period from             to                       
+                                                
+                          Commission File 0-5519
+
+                              ASSOCIATED BANC-CORP
+              (Exact Name of Registrant as Specified in Its Charter)
+
+                    Wisconsin                         39-1098068                
+           (State or other jurisdiction of          (I.R.S. Employer
+            incorporation or organization)          identification No.)
+
+             112 North Adams Street, Green Bay, Wisconsin  54301
+                   (Address of principal executive offices)                     
+                                           
+                                 (414) 433-3166       
+               (Registrant's telephone number, including area code)
+
+                                                                         
+               (Former name, former address and former fiscal year, 
+                           if changed since last report)            
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to
+such filing requirements for the past 90 days.
+
+                          Yes    X      No 
+                             _________    __________
+
+                      APPLICABLE ONLY TO CORPORATE ISSUERS:
+
+The number of shares outstanding of registrant's common stock, par value $0.01
+per share, at March 31, 1995, was 12,602,273 shares.
+
+
+
+
+                             ASSOCIATED BANC-CORP
+                               TABLE OF CONTENTS
+
+
+                                                                       Page No.
+
+PART I.    Financial Information
+
+           Item 1.  Financial Statements:
+
+                    Consolidated Statements of Financial 
+                    Condition - March 31, 1995 and
+                    December 31, 1994......................................1-2
+
+                    Consolidated Statements of Income -
+                    Three Months Ended 
+                    March 31, 1995 and 1994................................3-4
+
+                    Consolidated Statements of Cash Flows -
+                    Three Months Ended March 31, 1995 and 1994.............5-6 
+
+                    Notes to Consolidated Financial Statements.............7-8
+
+           Item 2.  Management's Discussion and Analysis of
+                    Financial Condition and Results of Operations..........8-24
+
+PART II.   Other Information
+
+           Item 6.  Exhibits and Reports on Form 8-K.......................25-26
+
+Signatures....................................................................27
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       i
+
+<PAGE>    1
+                        PART I - FINANCIAL INFORMATION
+
+ITEM 1.  Financial Statements:
+
+                             ASSOCIATED BANC-CORP
+                Consolidated Statements of Financial Condition
+                                  (Unaudited)
+
+                                                         March 31   December 31 
+                                                           1995        1994     
+                                                            (In Thousands)
+ASSETS
+  Cash and due from banks.............................$  134,224     $ 196,385
+  Interest-bearing deposits in other 
+    financial institutions............................       300           300
+  Federal funds sold and securities 
+    purchased under agreements to resell..............    13,360        57,635
+  Trading account securities..........................       ---           ---
+  Investment securities:  (Note 3)
+    Held to maturity (Fair value of approximately
+    $352,000 and $347,000 at March 31, 1995, and
+    December 31, 1994, respectively)..................   360,003       360,972
+    Available for sale-stated at fair value...........   309,489       305,903
+  Loans, net of unearned income....................... 2,323,936     2,277,283
+  Less:  Allowance for possible loan losses (Note 4)..   (37,341)      (36,369)
+    Loans, net                                         2,286,595     2,240,914
+  Premises and equipment                                  52,103        52,145
+  Other assets                                            70,205        70,064
+                                                       ---------     ---------
+    Total assets                                      $3,226,279    $3,284,318
+                                                       =========     =========
+LIABILITIES AND STOCKHOLDERS' EQUITY
+  Noninterest-bearing deposits........................$  477,788    $  589,313
+  Interest-bearing deposits........................... 2,077,202     2,074,300
+                                                       ---------     ---------  
+    Total deposits.................................... 2,554,990     2,663,613
+  Short-term borrowings...............................   354,083       315,979 
+  Accrued expenses and other liabilities..............    29,025        26,278
+  Long-term borrowings................................     3,866         3,866
+                                                       ---------     ---------  
+  Total liabilities................................... 2,941,964     3,009,736
+  Commitments and contingent liabilities..............       ---           ---
+  Stockholders' equity
+    Preferred stock...................................       ---           ---
+    Common stock (Par value $0.01 per share, 
+      authorized 48,000,000 shares, issued
+      12,826,863 and 12,826,752 shares, 
+      respectively)...................................       128           128
+
+
+
+
+
+
+
+
+<PAGE>     2
+                        PART I - FINANCIAL INFORMATION
+
+ITEM 1.  Financial Statements continued:
+
+                             ASSOCIATED BANC-CORP
+                Consolidated Statements of Financial Condition
+                                  (Unaudited)
+
+                                                         March 31   December 31 
+                                                           1995         1994
+                                                             (In Thousands)
+
+    Surplus............................................    146,924     147,132
+    Retained earnings..................................    141,206     134,182
+    Net unrealized gains (losses) on securities avail-
+      able for sale....................................        275      (2,817)
+    Less:  Treasury stock (224,590 and 220,244 shares  
+      at cost).........................................     (4,218)     (4,043)
+                                                          --------    --------  
+    Total stockholders' equity.........................    284,315     274,582
+                                                          --------     -------
+    Total liabilities and stockholders' equity......... $3,226,279  $3,284,318
+                                                         =========   =========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(See accompanying notes to Consolidated Financial Statements.)
+
+
+
+<PAGE>     3
+ITEM 1.  Financial Statements continued:
+
+                             ASSOCIATED BANC-CORP
+                       Consolidated Statements of Income
+                                  (Unaudited)
+                                                             Three Months Ended
+                                                                  March 31    
+                                                               1995      1994 
+                                                               (In Thousands)
+
+INTEREST INCOME
+  Interest and fees on loans............................... $ 49,935  $ 38,508
+  Interest and dividends on investment securities:
+    Taxable................................................    8,507     7,409
+    Tax-exempt.............................................    1,489     1,376
+  Interest on deposits in other financial
+    institutions...........................................        5         2
+  Interest on federal funds sold and securities
+    purchased under agreements to resell...................      439       416
+  Interest on trading account securities...................      ---       ---
+                                                              ------    ------
+    Total interest income                                     60,375    47,711
+
+INTEREST EXPENSE
+    Interest on deposits...................................   21,241    15,383
+    Interest on short-term borrowings......................    4,628     2,019
+    Interest on long-term borrowings.......................       88       110
+                                                              ------    ------
+    Total interest expense.................................   25,957    17,512
+                                                              ======    ======
+NET INTEREST INCOME........................................   34,418    30,199
+Provision for possible loan losses (Note 4)................      981       725
+                                                              ------    ------
+Net interest income after provision for 
+  possible loan losses.....................................   33,437    29,474
+                                                              ------    ------
+NONINTEREST INCOME
+  Trust service fees.......................................    5,496     4,969
+  Data processing fees.....................................      273       426
+  Service charges on deposit accounts......................    2,608     2,700
+  Investment securities gains, net.........................       21        39
+  Loan servicing fees......................................      955       817
+  Residential real estate loan origination fees............       80       509
+  Retail investment income.................................      450       587
+  Other....................................................    2,649     2,956
+                                                              ------    ------
+    Total noninterest income...............................   12,532    13,003
+                                                              ======    ======
+NONINTEREST EXPENSE
+  Salaries and employee benefits...........................   15,415    14,834
+  Net occupancy expense....................................    2,451     2,232
+  Equipment rentals, depreciation and maintenance..........    1,561     1,467
+
+
+<PAGE>     4
+ITEM 1.  Financial Statements continued:
+
+                             ASSOCIATED BANC-CORP
+                       Consolidated Statements of Income
+                                  (Unaudited)
+
+                                                             Three Months Ended 
+                                                                  March 31
+                                                               1995      1994 
+                                                               (In Thousands)
+
+  Data processing expense.................................. $  1,823   $  1,830
+  Stationery and supplies..................................      791        780
+  Business development and advertising.....................      865        669
+  FDIC expense.............................................    1,469      1,345
+  Legal and professional fees..............................      241        480
+  Other....................................................    5,066      4,845
+                                                              ------     ------ 
+    Total noninterest expense..............................   29,682     28,482
+                                                              ======     ======
+Income before income taxes.................................   16,287     13,995
+Income tax expense.........................................    5,859      4,584
+                                                              ------     ------
+NET INCOME................................................. $ 10,428   $  9,411
+                                                              ======     ======
+Per share (Note 5)
+  Net income............................................... $   0.83   $   0.75
+  Dividends................................................ $   0.27   $   0.25
+Weighted average shares outstanding........................   12,610     12,605
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(See accompanying notes to Consolidated Financial Statements.)
+
+<PAGE>     5
+ITEM 1.  Financial Statements continued:
+
+                             ASSOCIATED BANC-CORP
+                     Consolidated Statements of Cash Flows
+                                  (Unaudited)
+                                                             Three Months Ended
+                                                                  March 31
+                                                               1995      1994
+                                                               (In Thousands)
+
+OPERATING ACTIVITIES
+  Net income............................................... $ 10,428   $ 9,411
+  Adjustments to reconcile net income to net 
+    cash used by operating activities:
+    Provision for possible loan losses.....................      981       725
+    Depreciation and amortization..........................    1,716     1,606
+    Amortization of purchased mortgage servicing rights....      108        68 
+    Amortization of goodwill...............................      591       295
+    Net amortization and accretion of premiums and
+      discounts............................................      231       (26) 
+    Gain on sales of investment securities, net............      (21)      (39)
+    Increase in interest receivable and other assets.......   (2,462)   (2,773)
+    Increase in interest payable and other 
+      liabilities..........................................    2,197     5,979 
+    Amortization of loan fees and costs....................     (392)     (408)
+    Purchases of trading account securities................      (64)     (253)
+    Proceeds from sales of trading account securities......       78         6
+    Net (increase) decrease in mortgage loans 
+      acquired for resale..................................   (2,312)   22,514
+    Gain on sales of mortgage loans held for resale........      (34)     (364)
+    Other, net.............................................     (302)      355
+                                                              ------    ------
+Net cash provided by operating activities.................. $ 10,743  $ 37,096
+                                                              ======    ======  
+
+INVESTING ACTIVITIES
+  Net decrease in federal funds sold and securities
+    purchased under agreements to resell...................   44,275    17,640
+  Purchases of held to maturity securities.................  (22,730)  (62,455)
+  Purchases of available for sale securities...............  (24,173)  (37,517)
+  Proceeds from sales of available for sale securities.....       84       ---
+  Maturities of held to maturity securities................   23,575    73,652
+  Maturities of available for sale securities..............   25,435    36,779
+  Net increase in loans....................................  (43,990)  (29,413)
+  Reductions of other real estate..........................      726       581
+  Purchases of premises and equipment, net of disposals....   (1,609)   (1,748)
+  Purchases of mortgage servicing rights...................     (153)     (521)
+                                                              ------    ------
+Net cash provided (used) by investing activities........... $  1,440  $ (3,002)
+                                                              ======    ======  
+
+
+<PAGE>     6
+ITEM 1.  Financial Statements continued:
+
+                             ASSOCIATED BANC-CORP
+                     Consolidated Statements of Cash Flows
+                                  (Unaudited)
+
+                                                             Three Months Ended
+                                                                  March 31     
+                                                               1995      1994
+                                                               (In Thousands)
+
+FINANCING ACTIVITIES
+  Net decrease in deposits................................. (108,623)  (16,868)
+  Net increase (decrease) in short-term borrowings.........   38,066   (22,785)
+  Cash dividends...........................................   (3,404)   (3,151)
+  Repayments of long-term borrowings.......................      ---      (680)
+  Proceeds from exercise of stock options..................      158       133
+  Purchase of treasury stock...............................     (541)      ---
+                                                              ------    ------
+Net cash (used) by financing activities.................... $(74,344) $(43,351)
+                                                              ======    ====== 
+Net decrease in cash and cash equivalents.................. $(62,161) $ (9,257)
+Cash and cash equivalents beginning of period..............  196,385   157,293
+                                                              ------    ------
+Cash and cash equivalents at end of period................. $134,224  $148,036
+                                                             =======   =======
+
+Supplemental disclosures of cash flow information:
+  Cash paid during the period for:
+    Interest............................................... $ 23,225  $ 15,944
+    Income taxes...........................................    2,905       969
+Supplemental schedule of noncash investing activities:
+     Loans transferred to other real estate................ $    195  $    476
+     Loans made in connection with the disposition of 
+       other real estate...................................       46       100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>     7
+(See accompanying notes to Consolidated Financial Statements.)
+
+
+
+ITEM 1.  Financial Statements continued:
+
+
+                             ASSOCIATED BANC-CORP
+                  Notes to Consolidated Financial Statements
+
+NOTE 1:  In the opinion of management, the accompanying unaudited
+         consolidated financial statements contain all adjustments necessary to
+         present fairly Associated Banc-Corp's financial position, results of
+         its operations and cash flows for the periods presented. All
+         adjustments necessary to the fair presentation of the financial
+         statements are of a normal recurring nature.  The results of
+         operations for the interim periods are not necessarily indicative of
+         the results to be expected for the full year.
+
+NOTE 2:  The consolidated financial statements include the accounts of all
+         subsidiaries. All material intercompany transactions and balances are 
+         eliminated.  The corporation has not changed its accounting and 
+         reporting policies from those stated in the corporation's
+         1994 Annual Report on Form 10-K.
+
+NOTE 3:  INVESTMENT SECURITIES
+
+         The amortized cost and fair values of investment securities held to
+         maturity and securities available for sale for the periods indicated
+         were as follows:
+
+                         Investment Securities Held to Maturity 
+         ----------------------------------------------------------------------
+                  (In thousands)                          March 31, 1995        
+         ----------------------------------------------------------------------
+                                                    Amortized Cost  Fair Value
+         ----------------------------------------------------------------------
+         U.S. Treasury and federal agency 
+           securities................................. $176,162      $170,433   
+         Obligations of states and political 
+           subdivisions...............................  117,134       116,196   
+         Other securities.............................   66,707        65,326
+         ---------------------------------------------------------------------- 
+         Total........................................ $360,003      $351,955   
+   
+         ======================================================================
+                 (In thousands)                         December 31, 1994
+         ----------------------------------------------------------------------
+                                                     Amortized Cost  Fair Value
+         ----------------------------------------------------------------------
+         U.S. Treasury and federal agency 
+           securities................................. $ 183,524    $ 174,398   
+         Obligations of states and political
+           subdivisions...............................   117,490      115,253   
+         Other securities.............................    59,958       57,372   
+         ----------------------------------------------------------------------
+         Total........................................ $ 360,972    $ 347,023  
+         ======================================================================
+
+
+<PAGE>     8
+                         Investment Securities Available for Sale
+         ----------------------------------------------------------------------
+                 (In thousands)                           March 31, 1995
+         ---------------------------------------------------------------------- 
+                                                     Amortized Cost  Fair Value
+         ----------------------------------------------------------------------
+         U.S. Treasury and federal agency 
+           securities................................. $ 306,494    $ 302,921
+         Other securities.............................     2,724        6,568
+         ----------------------------------------------------------------------
+         Total........................................ $ 309,218    $ 309,489   
+         ======================================================================
+                 (In thousands)                         December 31, 1994
+         ----------------------------------------------------------------------
+                                                     Amortized Cost  Fair Value
+         ----------------------------------------------------------------------
+         U.S. Treasury and federal agency 
+           securities................................. $ 308,680    $ 300,461   
+         Other securities.............................     1,969        5,442
+         ----------------------------------------------------------------------
+         Total........................................ $ 310,649    $ 305,903
+         ======================================================================
+
+NOTE 4:  ALLOWANCE FOR POSSIBLE LOAN LOSSES
+
+         A summary of the changes in the allowance for possible loan losses for
+         the periods indicated is as follows:
+
+                                                    For the Three  For the Year
+                                                      Months Ended     Ended
+                                                       March 31,   December 31,
+                                                          1995         1994   
+                                                           (In Thousands)
+
+         Balance at beginning of period................. $ 36,369     $ 33,939
+         Balance related to acquisitions                      ---        1,675
+         Provisions charged to operating expense........      981        2,788
+         Loan losses net of recoveries..................       (9)      (2,033)
+                                                           ------       ------
+         Balance at end of period....................... $ 37,341     $ 36,369
+                                                           ======       ======
+NOTE 5:  PER SHARE COMPUTATIONS
+
+         Per share computations are computed based on the weighted average
+         number of common shares outstanding for the three months ended
+         March 31, 1995, and 1994.  
+
+ITEM 2.  Management's Discussion and Analysis of Financial Condition and the
+         Results of Operations
+
+         The purpose of this discussion is to focus on information about the
+         corporation's financial condition and results of operations that are
+         not otherwise apparent from the consolidated financial statements
+         included in this report.  Reference should be made to those statements
+<PAGE>     9
+         presented elsewhere in this report for an understanding of the
+         following discussion and analysis.
+
+         EARNINGS
+
+         Earnings for the first quarter of 1995 increased 10.8% over 1994 while
+         earnings per share were up 10.7% over the same periods.
+
+                                      Net Income            
+                                   Quarterly Trends                    
+                                   ($ in Thousands)
+         ----------------------------------------------------------------------
+                                   1st Qtr. 4th Qtr. 3rd Qtr. 2nd Qtr. 1st Qtr. 
+                                     1995     1994     1994     1994     1994 
+         ----------------------------------------------------------------------
+
+         Net Income                $10,428  $10,704  $10,357  $ 9,956  $ 9,411
+         E.P.S.                        .83      .85      .82      .79      .75
+         Return on Average
+           Equity - Quarter          15.30%   15.73%   15.35%   15.28%   14.83% 
+         Return on Average 
+           Equity - Year             15.30%   15.31%   15.16%   15.06%   14.83%
+         Return on Average 
+           Assets - Quarter           1.32%    1.34%    1.36%    1.34%    1.31%
+         Return on Average
+           Assets - Year              1.32%    1.34%    1.34%    1.33%    1.31%
+         ----------------------------------------------------------------------
+         Return on average assets (ROA) for the first quarter of 1995 was
+         1.32%, up from 1.31% during the same period last year.  ROA rose
+         slightly because first quarter 1995 net income grew at a rate of
+         10.8%, compared with 1994, while average assets grew at 10.1%,
+         resulting in a 1 basis point increase in ROA.  ROA declined when
+         comparing the first quarter of 1995 to the fourth quarter of 1994,
+         because net income declined 2.6% while average assets grew at a 1.1% 
+         pace.
+
+         Return on average equity (ROE) for the first quarter was 15.30%, up
+         from 14.83% during the same period last year.  ROE increased
+         significantly in the first quarter of 1995 over 1994 because average
+         equity grew only 7.3% as a result of the decline in the average
+         balance of the equity component for unrealized gains on securities
+         available for sale.  ROE decreased when compared with the fourth 
+         quarter of 1994 due primarily to the decline in net income.  Without
+         the available for sale equity component, first quarter 1995 ROE would
+         have been 15.23%, compared with an adjusted ROE of 15.14% in the first
+         quarter of 1994.
+
+         NET INTEREST INCOME
+
+         Tax equivalent net interest income in the first quarter of 1995 was
+         $35.4 million, a decrease of $1.1 million or 3% from the fourth 
+         quarter of 1994.  The decrease from the 1994 fourth quarter was 
+         essentially rate driven as the rate on earning assets increased 28
+         basis points while the rate on interest-bearing liabilities increased
+<PAGE>     10
+         41 basis points between the two quarters causing a decline in the 
+         overall interest rate spread.
+
+                                  Net Interest Income                           
+                                 Tax Equivalent Basis                           
+                                   ($ in Thousands)
+         ----------------------------------------------------------------------
+                                   1st Qtr. 4th Qtr. 3rd Qtr. 2nd Qtr. 1st Qtr.
+                                     1995     1994     1994     1994     1994
+         ----------------------------------------------------------------------
+         Interest Income           $60,375  $58,860  $53,803  $50,577  $47,711
+         Tax Equivalent Adjustment     968      891      877      953      972
+                                    ------   ------   ------   ------   ------
+         Tax Equivalent Interest 
+           Income                   61,343   59,751   54,680   51,530   48,683
+         Interest Expense           25,957   23,259   20,262   18,647   17,512
+                                    ------   ------   ------   ------   ------
+         Tax Equivalent Net        
+           Interest Income         $35,386  $36,492  $34,418  $32,883  $31,171
+         ----------------------------------------------------------------------
+         The net interest margin in the first quarter of 1995 was 4.77%
+         compared to 4.88% in the fourth quarter of 1994.  The decrease in
+         margin since last quarter was primarily due to the decline in interest
+         rate spread.  Spread declined due to the greater rise in the cost of
+         funds, which was caused by deposit migration from savings and money
+         market deposits into time deposits and the higher volumes of short-
+         term borrowings.
+
+         First quarter 1995 average loans grew 1.8% since the fourth quarter of
+         1994 while interest-bearing deposits rose just .9%, noninterest-
+         bearing deposits declined 8.1%, and short-term borrowings rose 19.5%.
+
+                                  Net Interest Margin                           
+                                    Quarterly Trends
+                                 (Quarterly Info Only)
+         ----------------------------------------------------------------------
+                                   1st Qtr. 4th Qtr. 3rd Qtr. 2nd Qtr. 1st Qtr.
+                                     1995     1994     1994     1994     1994
+         ----------------------------------------------------------------------
+         Yield on Earning Assets     8.28%    8.00%    7.70%    7.47%    7.29%
+         Cost of Interest-Bearing 
+           Liabilities               4.32     3.91     3.58     3.36     3.27
+         Interest Rate Spread        3.96     4.09     4.12     4.11     4.02
+         Net Interest Margin         4.77     4.88     4.85     4.77     4.67
+         Average Earning Assets to 
+           Average Assets           93.50    93.21    93.39    93.21    92.69
+         Free Funds Ratio           19.02    20.31    20.23    19.47    19.73
+         ----------------------------------------------------------------------
+
+         The net interest margin for the first quarter of 1995 was 4.77%
+         compared with 4.67% in 1994.  The net interest margin increased
+         largely as a result of the increase in the level of interest rates. 
+         The rate on earning assets increased 99 basis points, while the rate
+         on interest bearing liabilities increased 105 basis points.  The
+<PAGE>     11
+         changes due to the level of rates were partially offset by a 6 basis
+         point decline in spread and a 71 basis point decline in the level of
+         free funds.
+
+                  Earning Asset and Interest-Bearing Liability Volumes
+                                   Quarterly Trends
+                                   ($ in Thousands)
+         ----------------------------------------------------------------------
+                          1st Qtr.    4th Qtr.   3rd Qtr.   2nd Qtr.   1st Qtr.
+                            1995        1994       1994       1994       1994
+         ----------------------------------------------------------------------
+         Average Loans   $2,300,378 $2,258,683 $2,144,889 $2,091,148 $2,039,352
+         Average Earning
+           Assets         3,005,849  2,964,312  2,817,301  2,767,586  2,706,852
+         Average 
+           Noninterest-
+           Bearing
+           Deposits         476,984    518,818    475,261    452,767    464,256
+         Average Interest-
+           Bearing
+           Deposits       2,099,330  2,081,248  1,975,756  1,936,636  1,913,329
+         Average Deposits 2,576,314  2,600,066  2,451,017  2,389,403  2,377,585
+         Average Interest-
+           Bearing
+           Liabilities    2,434,265  2,362,311  2,247,432  2,228,628  2,172,745
+         ----------------------------------------------------------------------
+         
+         LOAN LOSS
+
+         The loan loss provision for the first quarter of 1995 was $981,000, an
+         increase of $256,000 from the same period in 1994 and $252,000 higher
+         than the fourth quarter of 1994. 
+ 
+         As of March 31, 1995, the allowance for possible loan losses of $37.3
+         million represented 1.61% of total loans, up from 1.60% at December
+         31, 1994, but down from 1.68% at March 31, 1994.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>     12 
+                          Provision for Possible Loan Losses
+                                   Quarterly Trends
+                                   ($ in Thousands)         
+
+         ----------------------------------------------------------------------
+                          1st Qtr.    4th Qtr.   3rd Qtr.   2nd Qtr.   1st Qtr.
+                            1995        1994       1994       1994       1994
+         ---------------------------------------------------------------------- 
+         Provision - 
+           Quarter         $   981     $   729    $   662    $   672    $   725 
+         Provision -
+           Year                981       2,788      2,059      1,397        725
+         Net Charge-offs-
+           Quarter               9         670        799        272        292
+         Net Charge-offs-
+           Year                  9       2,033      1,363        564        292
+         Allowance at
+           Period End       37,341      36,369     34,885     34,772     34,372
+         Allowance to 
+           Period End
+           Loans             1.61%       1.60%      1.59%      1.64%      1.68%
+         Net Charge-offs 
+           to Average Loans
+           (Annualized) -
+           Quarter            .00%        .12%       .15%       .05%       .06%
+         Net Charge-offs
+           to Average Loans
+           (Annualized -
+           Year               .00%        .10%       .09%       .05%       .06%
+         ----------------------------------------------------------------------
+         Charge-offs for the quarter ending March 31, 1995, of $1.047 million
+         were reduced by recoveries of $1.038 million, creating net charge-offs
+         of $9,000.  This activity compares with fourth quarter 1994 net
+         charge-offs of $670,000 and third quarter 1994 net charge-offs of
+         $799,000.
+        
+         The ratio of year-to-date 1995 annualized net charge-offs to average
+         loans was .00%, down from .06% in 1994.
+                  
+         NON-PERFORMING LOANS
+
+         Management is committed to an aggressive non-accrual and problem loan
+         identification philosophy.  This philosophy is embodied through the 
+         monitoring and reviewing of credit policies and procedures to ensure   
+         that all problem loans are identified quickly and the risk of loss is 
+         minimized.
+
+         Non-performing loans are considered a leading indicator of future loan
+         losses. Non-performing loans are defined as non-accrual loans, loans
+         90 days or more past due but still accruing and restructured loans.
+
+         Loans are normally placed in non-accrual status when contractually  
+         past due 90 days or more as to interest or principal payments. 
+         Additionally, whenever management becomes aware of facts or
+<PAGE>     13
+         circumstances that may adversely impact on the collectibility of
+         principal or interest on loans, it is management's practice to place
+         such loans on non-accrual status immediately, rather than delaying
+         such action until the loans become 90 days past due.  Previously  
+         accrued and uncollected interest on such loans is reversed and income
+         is recorded only to the extent that interest payments are        
+         subsequently received in cash and a determination has been made that
+         the principal balance of the loan is collectible.  If collectibility 
+         of the principal is in doubt, payments received are applied to loan  
+         principal.
+
+         Loans past due 90 days or more but still accruing interest are also
+         included in non-performing loans.  Loans past due 90 days or more but 
+         still accruing are classified as such where the underlying loans are
+         both well-secured (the collateral value is sufficient to cover
+         principal and accrued interest) and in the process of collection.  
+         Also included in non-performing loans are "restructured" loans. 
+         Restructured loans involve the granting of some concession to the
+         borrower involving the modification of terms of the loan, such as
+         changes in payment schedule or interest rate.
+
+         Total nonperforming loans at March 31, 1995, were $13.6 million, a
+         decline of $2.7 million from December 31, 1994.  The ratio of
+         nonperforming loans to total loans at March 31, 1995, was .58%
+         compared to .71% at December 31, 1994, and 1.02% at March 31, 1994.
+
+                     Non-Performing Loans and Other Real Estate
+                                 ($ in Thousands)             
+         ----------------------------------------------------------------------
+                                  3/31/95  12/31/94  9/30/94  6/30/94  3/31/94
+
+         Nonaccrual Loans         $11,323   $13,111  $15,323  $17,126  $16,644
+         Accruing Loans Past Due 
+           90 Days or More          1,064     1,247    1,496      920    1,636
+         Restructured Loans         1,190     1,888    1,721    2,629    2,637
+                                   ------    ------   ------   ------   ------
+         Total Nonperforming 
+           Loans                  $13,577   $16,246  $18,540  $20,675  $20,917
+         Nonperforming Loans as 
+           a Percent of Loans         .58%      .71%     .85%     .97%    1.02%
+         Other Real Estate Owned  $ 1,327   $ 1,571  $ 1,306  $ 2,128  $ 2,103
+         ----------------------------------------------------------------------
+
+         Impaired loans are defined, by SFAS 114 and SFAS 118 adopted in the
+         first quarter of 1995, as those loans where it is probable that all
+         amounts due according to contractual terms, including principal and
+         interest, will not be collected.  The corporation has determined that
+         nonaccrual loans meet this definition.  Impaired loans are measured at
+         the fair value of the collateral, if the loan is collateral dependent,
+         or alternatively at the present value of expected future cash flows.
+         Interest income on impaired loans is recognized only at the time that
+         cash is received, unless applied to reduce principal.
+
+         At March 31, 1995, the recorded investment in impaired loans totaled
+<PAGE>     14
+         $11.3 million.  Included in this amount is $7 million of impaired
+         loans that do not require a related allowance for possible loan
+         losses, and $4.3 million of impaired loans for which the related
+         allowance for possible loan losses totaled $1.2 million.  The average
+         recorded investment in impaired loans during the three months ended
+         March 31, 1995, was approximately $12.1 million.  Interest income
+         recognized on a cash basis on impaired loans during the first three
+         months of 1995 totaled $148,000.         
+ 
+         The following table shows, for those loans accounted for on a
+         non-accrual basis and restructured loans for the three months ended 
+         March 31, 1995, the gross interest that would have been recorded if
+         the loans had been current in accordance with their original terms and
+         the amount of interest income that was included in net income for
+         the period.
+
+
+                                                               For the Three
+                                                               Months Ended
+                                                              March 31, 1995
+                                                             ($ In Thousands)
+
+         Interest income in accordance with original terms        $ 508     
+         Interest income recognized                                 228    
+                                                                    ---
+         Reduction in interest income                             $ 280    
+                                                                    ===
+
+         Potential problem loans are loans where there are doubts as to the
+         ability of the borrower to comply with present repayment terms.  The
+         decision of management to place loans in this category does not
+         necessarily mean that the corporation expects losses to occur, but
+         that management recognizes that a higher degree of risk is 
+         associated with these performing loans.
+
+                               Potential Problem Loans
+                                  ($ in Thousands)
+         ----------------------------------------------------------------------
+                                  3/31/95  12/31/94  9/30/94  6/30/94  3/31/94
+
+         Potential Problem Loans  $44,061   $51,764  $42,325  $54,282  $47,514
+         ----------------------------------------------------------------------
+
+         At March 31, 1995, potential problem loans totaled $44.1 million
+         compared to $51.8 million at the end of 1994.  The loans that have
+         been reported as potential problem loans are not concentrated in a
+         particular industry, but rather cover a diverse range of businesses,
+         e.g. communications, wholesale trade, manufacturing,
+         finance/insurance/real estate, and services.  Management does not
+         presently expect significant losses for credits in this category.
+
+         Other real estate owned totaled to $1.3 million at March 31, 1995,     
+         compared with $2.1 million at March 31, 1994.
+
+<PAGE>     15
+         LOAN CONCENTRATIONS
+
+         Loan concentrations are considered to exist when there are amounts
+         loaned to a multiple number of borrowers engaged in similar activities 
+         that would cause them to be similarly impacted by economic or other
+         conditions.  The corporation's loans are widely diversified by
+         borrower, industry group and area.  At March 31, 1995, no
+         concentrations existed in the corporation's loan portfolio in excess  
+         of 10% of total loans.
+
+         Real estate construction loans at March 31, 1995, totaled $123.1
+         million or only 5.3% of loans while agricultural loans were 1.2% of
+         total loans.  
+
+         As of March 31, 1995, the corporation did not have any cross-border
+         outstandings to borrowers in any foreign country where such
+         outstandings exceeded 1% of total assets.
+
+         NONINTEREST INCOME
+
+         Noninterest income decreased 3.6% for the three months ended March 31,
+         1995, when compared with the same period in 1994, but increased 10.5%
+         compared to the fourth quarter of 1994.  
+
+         Trust fees were up 10.6% for the first quarter of 1995 compared with
+         the same period in 1994.  The increase was the result of growth in new
+         business development and consistent investment performance, both
+         contributing to growth in assets under management.
+
+                                  Noninterest Income
+                                   Quarterly Trends                             
+                                   ($ in Thousands)
+         ---------------------------------------------------------------------- 
+                               1st Qtr.  4th Qtr.  3rd Qtr.  2nd Qtr.  1st Qtr.
+                                 1995      1994      1994      1994      1994
+         ----------------------------------------------------------------------
+         Trust Servicing 
+           Fees                $ 5,496   $ 5,118   $ 5,017   $ 5,125   $ 4,969
+         Data Processing 
+           Fees                    273       394       432       422       426
+         Service Charges on 
+           Deposit Accounts      2,608     2,744     2,802     2,787     2,700  
+         Investment Security 
+           Gains, Net               21       ---         6       157        39
+         Loan Servicing Fees       955       876       913       829       817  
+         Residential Real 
+           Estate Loan 
+           Origination Fees         80       125       146       247       509
+         Retail Investment 
+           Income                  450       335       389       432       587
+         Other                   2,649     1,749     1,710     2,055     2,956  
+                                 -----     -----     -----     -----     -----
+         Total                 $12,532   $11,341   $11,415   $12,054   $13,003  
+         ---------------------------------------------------------------------
+<PAGE>     16
+         Service charges on deposits decreased 3.4% for the first quarter of
+         1995 compared with the 1994 first quarter amount.  This followed a
+         3.9% increase in service charges on deposits when comparing the fourth
+         quarter of 1994 with the comparable period in 1993.  The decrease from
+         the first quarter of 1994 was essentially due to lower deposit
+         volumes.         
+
+         Net investment security gains recognized in the first quarter of 1995
+         were $21,000 following net security gains of zero in the fourth
+         quarter of 1994.         
+
+         Loan servicing fees were up 16.9% for the first quarter of 1995
+         compared with 1994, following an increase of 13.9% in the fourth
+         quarter of 1994 compared with the same period in 1993.
+
+         Residential real estate loan origination fees for the first quarter of
+         1995 were down $429,000 from 1994.  The majority of the decrease was
+         at the corporation s residential mortgage company where a decrease of
+         $242,000 was due to the continued reduction in loan originations
+         during 1994, which is carrying on into 1995.
+ 
+         Retail investment income decreased $137,000 or 23.3% during the first
+         quarter of 1995 compared to the same period in 1994.
+
+         Other noninterest income declined $307,000 in the first quarter of
+         1995 compared with the same period in 1994 following a decline of
+         $263,000 in the fourth quarter of 1994 compared with 1993.
+         
+         Miscellaneous underwriting fees income decreased $164,000 from the
+         first quarter of 1994.  Other miscellaneous income decreased $282,000
+         in the first quarter of 1995 compared to the same period in 1994. 
+         During the first quarter of 1995, a subsidiary bank had a $700,000
+         insurance recovery from a previous lawsuit while in the first quarter
+         of 1994 the parent company recognized a $1 million in insurance
+         proceeds on a key-man life insurance policy.
+                  
+         NONINTEREST EXPENSE
+
+         Total noninterest expense increased 4.2% for the three months ended
+         March 31, 1995 when compared with the same period in 1994 and was .8%
+         higher than the fourth quarter of 1994.
+
+         Salaries and employee benefits were up 3.9% or $581,000 over the first
+         quarter of 1994.  Salaries and commissions were up $603,000 over 1994,
+         an increase of 5.3%.  Deferred compensation expense declined $415,000
+         during the same period.         
+
+         Profit sharing, retirement savings, and pension expenses showed an
+         increase of $212,000 or 18.4% for the first quarter of 1995 compared
+         with 1994.  Health insurance expenses increased $84,000 or 14.2% over
+         the first quarter of 1994 while social security expense was up $59,000
+         or 6.8%.  A portion of these increases was due to the branch office
+         acquisitions in 1994.
+
+<PAGE>    17
+                                 Noninterest Expense
+                                   Quarterly Trends
+                                   ($ in Thousands)
+         ---------------------------------------------------------------------- 
+                               1st Qtr.  4th Qtr.  3rd Qtr.  2nd Qtr.  1st Qtr.
+                                 1995      1994      1994      1994      1994   
+         ----------------------------------------------------------------------
+         Salaries and 
+           Employee Benefits   $15,415   $15,383   $14,735   $14,474   $14,834  
+         Net Occupancy Expense   2,451     2,223     2,119     2,144     2,232  
+         Equipment Rentals, 
+           Depreciation and 
+           Maintenance           1,561     1,630     1,503     1,438     1,467
+         Data Processing 
+           Expense               1,823     1,947     1,870     1,842     1,830
+
+         Stationery and 
+           Supplies                791       728       630       712       780  
+         Business Development 
+           and Advertising         865       660       576       783       669  
+         FDIC Expense            1,469     1,415     1,335     1,340     1,345
+         Legal and Professional 
+           Fees                    241       230       391       263       480
+         Other                   5,066     5,219     4,897     4,849     4,845
+                                 -----     -----     -----     -----     -----  
+         Total                 $29,682   $29,435   $28,056   $27,845   $28,482
+         ----------------------------------------------------------------------
+
+         Net occupancy expense increased 9.8% or $219,000 in the first quarter
+         of 1995 compared with the same period in 1994.  This followed a 9.8%
+         increase in the fourth quarter of 1994 over 1993.  The first quarter
+         increase was primarily a result of the branch office acquisitions.
+
+         Data processing expense decreased $7,000 during the first quarter of
+         1995 compared with the same period in 1994.
+
+         Business development and advertising expense was up 29.3% in the first
+         quarter of 1995 compared to 1994 following a 4.2% increase in the
+         fourth quarter of 1994 compared with 1993.  The first quarter 1995
+         increase over 1994 was primarily at two of the corporation s larger
+         bank subsidiaries due to certain promotional activities.
+ 
+         Legal and professional fees decreased 49.8% or $239,000 for the first
+         quarter of 1995 compared with the same period in 1994 primarily at the
+         parent company.
+
+         Other noninterest expense increased 4.6% or $221,000 in the first
+         quarter of 1995 compared with 1994, following an 11.6% increase in the
+         fourth quarter of 1994 compared with the same period in 1993.
+
+         Within other noninterest expense, gains on sale of ORE increased
+         $338,000 in the first quarter of 1995 compared with the same period in
+         1994.
+
+<PAGE>    18
+         Net gains on loans sold declined $373,000 when compared to the first
+         quarter of 1994.  The overall decrease in gains created an increase in
+         other noninterest expense.
+
+         Amortization of branch purchase premium intangibles totaled $336,000
+         in the first quarter of 1995 compared with no similar expenses in the
+         same period in 1994.
+
+         Real estate market valuation adjustment declined $315,000 for the
+         first quarter of 1995 compared with the same period in 1994.  The
+         higher 1994 expense was due to valuation at the lower of cost or fair
+         value of residential real estate loans for resale, including both
+         warehouse loans and loans in the mortgage pipeline.  Valuation expense
+         recognition was necessary at the end of the 1994 first quarter as
+         market rates increased, causing a relative decline in the value of
+         loans for resale.
+
+         Repo and foreclosure expense declined $162,000 for the first quarter
+         of 1995 compared with 1994.
+
+         Other miscellaneous expense increased $143,000 for the first quarter
+         of 1995 compared with 1994.
+
+         The efficiency ratio improved to 61.97% for the first quarter of 1995
+         compared with 66.03% for the same period last year.  The ratio
+         increased during the first quarter of 1995 compared with 61.54% for
+         the fourth quarter of 1994.  The improvement from first quarter 1994
+         to 1995 was primarily due to the tax-equivalent net interest income
+         growth outpacing recurring noninterest expense growth.  The change
+         from fourth quarter 1994 to first quarter 1995 was largely due to a
+         decrease in tax-equivalent net interest income while recurring
+         noninterest expense grew slightly.
+
+                                    Expense Control
+                                   Quarterly Trends
+         ---------------------------------------------------------------------- 
+                               1st Qtr.  4th Qtr.  3rd Qtr.  2nd Qtr.  1st Qtr.
+                                 1995      1994      1994      1994      1994   
+         ----------------------------------------------------------------------
+         Efficiency Ratio -
+           Quarter              61.97%    61.54%    61.22%    62.18%    66.03%
+         Efficiency Ratio -
+           Year                 61.97%    62.68%    63.09%    64.07%    66.03%
+         Expense Ratio -
+           Quarter               2.29%     2.44%     2.36%     2.30%     2.44%
+         Expense Ratio -
+           Year                  2.29%     2.39%     2.37%     2.37%     2.44%
+         ----------------------------------------------------------------------
+
+         The expense ratio improved to 2.29% for the first quarter of 1995
+         compared to 2.44% at both the first quarter and fourth quarter 1994. 
+         The improvement between the first quarter ratios was due to the growth
+         of average earning assets outpacing the growth of recurring
+         noninterest expense.  The improvement from fourth quarter 1994 to
+<PAGE>    19
+         first quarter 1995 was the result of growth in average earning assets
+         while recurring noninterest expense declined 5.1%.
+
+         INCOME TAXES
+
+         Income tax expense increased 27.8% in the first quarter of 1995
+         compared with the same period in 1994.  The first quarter 1994
+         effective rate was affected by the $1 million nontaxable life
+         insurance proceeds recognized.  Adjusted for the insurance proceeds,
+         the first quarter 1994 effective tax rate was 35.3%.  Tax expense in
+         the first quarter of 1995 was primarily affected by a higher level of
+         book taxable income and a lower level of tax-exempt income.
+
+                                  Income Tax Expense
+                                   Quarterly Trends
+                                   ($ in Thousands)
+         ----------------------------------------------------------------------
+                               1st Qtr.  4th Qtr.  3rd Qtr.  2nd Qtr.  1st Qtr.
+                                 1995      1994      1994      1994      1994   
+         ----------------------------------------------------------------------
+         Income Before Taxes   $16,287   $16,778   $16,238   $15,467   $13,995 
+                                ======    ======    ======    ======    ======
+         State Tax Expense     $   995   $ 1,038   $   929   $   937   $   808
+         Federal Tax Expense     4,864     5,036     4,952     4,574     3,776
+                                 -----     -----     -----     -----     -----
+         Total Income Tax
+           Expense               5,859     6,074     5,881     5,511     4,584
+         Effective Tax Rate      36.0%     36.2%     36.2%     35.6%     32.8%
+         ----------------------------------------------------------------------
+
+         BALANCE SHEET
+
+         Consolidated assets totaled $3.23 billion as of March 31, 1995, up
+         9.4% from one year ago.  Loans, net of unearned income, were $2.3
+         billion as of March 31, 1995, up 13.7% from the $2 billion of a year
+         earlier.  Total deposits at March 31, 1995, were $2.6 billion, an
+         increase of 5.8% from one year ago.
+         
+         Total assets at March 31, 1995, decreased by $58.0 million from
+         December 31, 1994.  The change in assets during the quarter was
+         affected by a $62.2 million decline in cash and due from banks.  Fed
+         funds sold decreased $44.3 million since the end of last year while
+         loans increased $46.7 million.  Investment securities increased $2.6
+         million during the same period.
+
+         Total period-end deposits decreased by $108.6 million during the first
+         quarter of 1995.  The change was comprised of a $2.9 million increase
+         in interest-bearing deposits and an $111.5 million decrease in
+         noninterest-bearing deposits.
+
+         End-of-period short-term borrowings increased $38.1 million since
+         December 31, 1994.
+
+<PAGE>     20
+         Since the fourth quarter of 1994, the most significant changes in
+         average balance sheet composition that provided sources of funds were
+         an $18.1 million increase in interest-bearing deposits, a $54 million
+         increase in short-term borrowings, a decrease in cash and due from
+         banks of $14.3 million, and a decrease in fed funds sold of $12.1
+         million.  Significant changes in average balance sheet composition
+         that used funds were a $41.7 million increase in loans, a $12.1
+         million increase in investment securities, and a $41.8 million
+         decrease in noninterest-bearing deposits.
+
+         The ratio of average loans to average deposits during the first
+         quarter of 1995 was 89.3% compared with 86.9% in the fourth quarter of
+         1994.  Year-to-date 1995 average earning assets were 93.5% of average
+         total assets, up slightly from the year-to-date ratio of 93.2% in
+         1994.
+         
+         LIQUIDITY
+
+         Liquidity refers to the ability of the corporation to generate
+         adequate amounts of cash to meet the corporation's needs for cash. 
+         The subsidiary banks and the parent company of the corporation have
+         different liquidity considerations.
+
+         Banking subsidiaries meet their cash flow requirements by having funds
+         available to satisfy customer credit needs as well as having available
+         funds to satisfy deposit withdrawal requests.  Liquidity at banking
+         subsidiaries is derived from deposit growth, money market assets,
+         maturing loans, the maturity of securities, access to other funding
+         sources and markets, and a strong capital position.
+
+         Deposit growth is the primary source of liquidity at the banking
+         subsidiaries.  As a financing activity in the first quarter 1995
+         Consolidated Statements of Cash Flows, deposits reflected a net cash
+         outflow of $108.6 million from the end of 1994.  The decline was in
+         noninterest-bearing deposits, which dropped from their substantially
+         higher year-end balances.
+
+         Within the investing activities cash flows, maturities of securities
+         during the first quarter of 1995 totaled $49 million.  As of
+         March 31, 1995, the securities portfolio contained $306.5 million at
+         amortized cost of U.S. Treasury and federal agency securities
+         available for sale, representing 45.8% of the total securities
+         portfolio.  These government securities are highly marketable and had
+         a market value equal to 98.8% of amortized cost at quarter end.
+         Additionally, $176.2 million at amortized cost of U.S. Treasury and
+         federal agency securities that are held to maturity are available, if
+         necessary, as a source of liquidity.  These securities had a quarter-
+         end market value of $170.4 million or 96.7% of amortized cost.
+
+         Money market assets, consisting of federal funds sold and
+         interest-bearing deposits in other financial institutions, averaged
+         $30.8 million in the first quarter of 1995 compared to $54.3 million
+         during the same period in 1994.  Being short-term and liquid by
+         nature, money market assets generally provide a lower yield than other
+<PAGE>    21        
+         earning assets.  The corporation has a strategy of maintaining a
+         sufficient level of liquidity to accommodate fluctuations in funding
+         sources and will periodically take advantage of specific
+         opportunities to temporarily invest excess funds at narrower than
+         normal rate spreads while still generating additional net interest
+         income.  At March 31, 1995, the corporation had $13.7 million
+         outstanding in short-term money market assets, serving as an 
+         essential source of liquidity.  The amount at quarter end represents
+         .4% of total assets compared to 1.8% at December 31, 1994.
+
+         Within the classification of short-term borrowings at March 31, 1995,
+         federal funds purchased and securities sold under agreements to
+         repurchase totaled $302.7 million compared with $271.3 million at the
+         end of 1994.  Federal funds are purchased from a sizeable network of
+         correspondent banks while securities sold under agreements to
+         repurchase are obtained from a base of individual, business and public
+         entity customers.
+
+         The aggregate subsidiary liquidity resources were sufficient in the
+         first quarter of 1995 to fund the growth in loans and meet other needs
+         for cash when necessary.  As of March 31, 1995, there were no material
+         commitments for capital expenditures, i.e. to purchase fixed assets.
+
+         Deposit growth will continue to be the primary source of bank
+         subsidiary liquidity on a long-term basis, along with stable earnings,
+         the resulting cash generated by operating activities and strong
+         capital positions.  Shorter-term liquidity needs will mainly be
+         derived from growth in short-term borrowings, maturing securities
+         and money market assets, loan maturities and access to other funding
+         sources.
+
+         Liquidity is also necessary at the parent company level.  The parent
+         company's primary sources of funds are dividends and service fees from
+         subsidiaries, borrowings and proceeds from the issuance of equity.
+         The parent company manages its liquidity position to provide the funds
+         necessary to pay dividends to shareholders, service debt, invest in
+         subsidiaries and satisfy other operating requirements.  Dividends
+         received from subsidiaries totaled $6.8 million in the first quarter
+         of 1995 and will continue to be the parent's main source of long-term
+         liquidity.  The dividends from subsidiaries were used to pay cash
+         dividends to the corporation's shareholders of $3.4 million, to
+         reduce short-term borrowings by $1.2 million, to purchase investment
+         securities of $.8 million, and to purchase treasury stock for $.5
+         million in the first quarter of 1995.  No payments of original
+         long-term borrowings were due during the first quarter of 1995.
+
+         At March 31, 1995, the parent company had $100 million of established
+         lines of credit with non-affiliated banks, of which $25 million was in
+         use.  Of the amount in use, the parent company downstreamed $20.3
+         million to the corporation's residential and commercial mortgage
+         banking subsidiaries and leasing company for their use in funding
+         loans and leases.  The parent company also has access to funds from
+         the issuance of the corporation's commercial paper, although such
+<PAGE>     22
+         funds are also downstreamed to the nonbank subsidiaries.  Commercial
+         paper outstanding at March 31, 1995, totaled $10.1 million.
+
+         The parent company's long-term debt to equity ratio at March 31, 1995,
+         was 1.4%, the same as the level at December 31, 1994.
+
+         Management believes that, in the current economic environment, the
+         corporation's subsidiary and parent company liquidity positions are
+         adequate.  There are no known trends nor any known demands,
+         commitments, events or uncertainties that will result or are
+         reasonably likely to result in a material increase or decrease in
+         the corporation's liquidity.
+
+         CAPITAL
+
+         Stockholders  equity at March 31, 1995, increased 9.1% to $284.3
+         million or $22.56 per share compared with $260.5 million or $20.67 per
+         share one year ago.  Capital continues to be strong, representing
+         8.81% of total assets as of March 31, 1995.  Quarter-end capital
+         includes a positive $275,000 equity component compared with a positive
+         $3.9 million component at March 31, 1994, related to unrealized 
+         gains/losses on securities available for sale.  Without the equity
+         component, the ratio of March 31, 1995, equity to assets would be
+         8.80% compared with adjusted equity of 8.73% one year ago.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>     23
+                                       Capital
+                                  Quarterly Trends)
+                                  ($ in Thousands)
+         ----------------------------------------------------------------------
+                               1st Qtr.  4th Qtr.  3rd Qtr.  2nd Qtr.  1st Qtr.
+                                 1995      1994      1994      1994      1994   
+         ----------------------------------------------------------------------
+         Stockholders' Equity  $284,315  $274,582  $270,434  $264,133  $260,534
+         Average Equity to
+           Average Assets         8.60%     8.49%     8.87%     8.80%     8.82%
+         Equity to Assets -
+           Period End             8.81%     8.36%     8.78%     8.81%     8.84%
+         Tier 1 Capital to Risk 
+           Weighted Assets -
+           Period End            10.61%    10.35%    11.24%    11.51%    11.53%
+         Total Capital to Risk
+           Weighted Assets -
+           Period End            11.88%    11.62%    12.51%    12.79%    12.82%
+         Tier 1 Leverage
+           Ratio - Period End     8.04%     7.89%     8.53%     8.52%     8.41%
+         Market Value Per Share
+           - Period End           36.13     35.50     35.25     37.50     31.25
+         Book Value Per Share -
+           Period End             22.56     21.78     21.44     20.94     20.67
+         Market Value Per Share
+           to Book Value Per
+           Share                 160.2%    163.0%    164.4%    179.1%    151.2%
+         Dividends Per Share -
+           This Quarter             .27       .27       .27       .27       .25
+         Dividends Per Share -
+           Year to Date             .27      1.06       .79       .52       .25
+         Earnings Per Share -
+           This Quarter             .83       .85       .82       .79       .75
+         Earnings Per Share -
+           Year to Date             .83      3.21      2.36      1.54       .75
+         Dividend Payout Ratio
+           - This Quarter        32.53%    31.76%    32.93%     34.18%   33.33%
+         Dividend Payout Ratio
+           - Year to Date        32.53%    33.02%    33.47%     33.77%   33.33%
+         ----------------------------------------------------------------------
+
+         Net income in the first quarter of 1995 was $10.4 million while
+         dividends paid to the corporation s shareholders amounted to $3.4
+         million.  Equity decreased $383,000 from the effects of treasury stock
+         and stock option activity.
+         
+         Cash dividends during the first quarter were $.27 per share, up 8.0%
+         from one year ago.  The year-to-date dividend payout ratio represents
+         32.5% of 1995 earnings per share.
+        
+         The adequacy of the corporation's capital is regularly reviewed to
+         ensure that sufficient capital is available for current and future
+         needs and is in compliance with regulatory guidelines.  The assessment
+         of overall capital adequacy depends on a variety of factors,
+<PAGE>     24
+         including asset quality, liquidity, stability of earnings, changing
+         competitive forces, economic conditions in markets served and strength
+         of management.
+
+         As of March 31, 1995, the corporation's tier 1 risk-based capital
+         ratio, total risk-based capital (tier 1 and tier 2) ratio and tier 1
+         leverage ratio were well in excess of regulatory minimums.  Management
+         of the corporation expects to continue to exceed the minimum standards
+         in the future.
+
+         Similar capital guidelines are also required of the individual banking
+         subsidiaries of the corporation.  As of March 31, 1995, each banking
+         subsidiary exceeded the minimum ratios for tier 1 capital, total
+         capital and the tier 1 leverage ratio.
+
+         Management actively reviews capital strategies for the corporation and
+         each of its subsidiaries to ensure that capital levels are appropriate
+         based on the perceived business risks, future growth opportunities,
+         industry standards and regulatory requirements.
+
+         RECENT DEVELOPMENTS
+
+         On March 23, 1995, the corporation announced the signing of a
+         definitive agreement to acquire GN Bancorp, Chicago, in a stock-for-
+         stock merger transaction.  GN is the parent company of the $130
+         million Gladstone-Norwood Trust & Savings Bank, with two offices
+         located in northwest Chicago.
+
+         Contingent on the approval of regulatory authorities and the
+         shareholders of GN Bancorp, the transaction is expected to be
+         completed in the third quarter of 1995.  When the merger is completed,
+         the corporation will have over $400 million in assets and five banking
+         offices in its Chicago region.
+
+         On April 14, 1995, the corporation also reached an agreement to
+         acquire a mortgage loan company on the northwest side of Chicago. 
+         Privately owned, the company operates primarily in the suburban
+         Chicago areas with evolving relationships beyond Chicago.
+
+         At the Annual Shareholders  Meeting on April 26, 1995, the
+         corporation s Board of Directors declared a regular quarterly cash
+         dividend of 27 cents per share and also announced the declaration of a
+         5-for-4 stock split to be effected in the form of a stock dividend. 
+         The 25% stock dividend is payable on June 15, 1995, to shareholders of
+         record at the close of business on June 1, 1995.
+
+
+
+
+
+
+
+
+
+
+<PAGE>     25   
+                             ASSOCIATED BANC-CORP
+                          PART II - OTHER INFORMATION
+
+
+                                                                       Page No.
+
+ITEM 6:  Exhibits and Reports on Form 8-K
+
+(a)      Exhibits:
+
+         (11) Statements re Computation of Per Share Earnings              
+
+(b)      Reports on Form 8-K:
+
+         There were no reports on Form 8-K filed for the three months ended
+         March 31, 1995.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>     26
+                             ASSOCIATED BANC-CORP
+                                 EXHIBIT (11)
+                Statement Re Computation of Per Share Earnings
+
+
+                                             March 31, 1995      March 31, 1994
+
+As Reported:
+
+Net income                                     $10,428,482         $ 9,410,871
+Weighted average common shares                  
+  outstanding                                   12,609,703          12,605,081
+Net income per share                           $       .83         $      0.75
+
+
+Primary:
+
+Net income                                     $10,428,482         $ 9,410,871
+Weighted average common shares 
+  outstanding                                   12,609,703          12,605,081
+Common stock equivalents                           140,830             124,847
+Adjusted weighted average common 
+  shares outstanding                            12,750,533          12,729,928
+Net income per share                           $       .82         $      0.74
+
+
+Fully Diluted:
+
+Net income                                     $10,428,482         $ 9,410,871
+Weighted average common shares 
+  outstanding                                   12,609,703          12,605,081
+Common stock equivalents                           142,927             133,577
+Adjusted weighted average common 
+  shares outstanding                            12,752,630          12,738,658
+Net income per share                           $       .82         $      0.74
+
+
+Note:  The primary and fully diluted numbers are not disclosed in the reported
+financials because any dilution that is less than 3% of earnings per common
+shares outstanding is not considered to be material.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>     27
+                                  SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                       ASSOCIATED BANC-CORP                     
+                                       (Registrant)
+
+Date:  May 12, 1995                                    
+                                       Harry B. Conlon
+                                       Chairman & Chief Executive Officer
+
+Date:  May 12, 1995
+                                       
+                                       
+                                       Joseph B. Selner
+                                       Principal Financial Officer
+
+                               INDEX TO EXHIBITS
+
+    Exhibit No.                                                      Page No.
+
+      (11)      Computations of Earnings Per Share and Average
+                Number of Common Shares Outstanding                    26
+
+              
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 9
+<CIK> 0000007789
+<NAME> ASSOCIATED BANC-CORP
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-31-1995
+<PERIOD-END>                               MAR-31-1995
+<CASH>                                         134,224
+<INT-BEARING-DEPOSITS>                             300
+<FED-FUNDS-SOLD>                                13,360
+<TRADING-ASSETS>                                     0
+<INVESTMENTS-HELD-FOR-SALE>                    309,489
+<INVESTMENTS-CARRYING>                         360,003
+<INVESTMENTS-MARKET>                           351,955
+<LOANS>                                      2,323,936
+<ALLOWANCE>                                     37,341
+<TOTAL-ASSETS>                               3,226,279
+<DEPOSITS>                                   2,554,990
+<SHORT-TERM>                                   354,083
+<LIABILITIES-OTHER>                             29,025
+<LONG-TERM>                                      3,866
+<COMMON>                                           128
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                     284,187
+<TOTAL-LIABILITIES-AND-EQUITY>               3,226,279
+<INTEREST-LOAN>                                 49,935
+<INTEREST-INVEST>                                9,996
+<INTEREST-OTHER>                                   444
+<INTEREST-TOTAL>                                60,375
+<INTEREST-DEPOSIT>                              21,241
+<INTEREST-EXPENSE>                              25,957
+<INTEREST-INCOME-NET>                           34,418
+<LOAN-LOSSES>                                      981
+<SECURITIES-GAINS>                                  21
+<EXPENSE-OTHER>                                 29,682
+<INCOME-PRETAX>                                 16,287
+<INCOME-PRE-EXTRAORDINARY>                      16,287
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    10,428
+<EPS-PRIMARY>                                      .83
+<EPS-DILUTED>                                      .83
+<YIELD-ACTUAL>                                    8.28
+<LOANS-NON>                                     11,323
+<LOANS-PAST>                                     1,064
+<LOANS-TROUBLED>                                 1,190
+<LOANS-PROBLEM>                                 44,061
+<ALLOWANCE-OPEN>                                36,369
+<CHARGE-OFFS>                                    1,047
+<RECOVERIES>                                     1,038
+<ALLOWANCE-CLOSE>                               37,341
+<ALLOWANCE-DOMESTIC>                                 0
+<ALLOWANCE-FOREIGN>                                  0
+<ALLOWANCE-UNALLOCATED>                              0
+        
+
+</TEXT>
+
+</DOCUMENT>
+
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
