@@ -36,7 +36,7 @@ class MLStripper(HTMLParser):
 
 
 if __name__ == "__main__":
-    bank_text_dir = 'E:/Researchcode/Banktext10Q/'
+    bank_text_dir = 'Banktext10Q/'
     bank_text_files = os.listdir(bank_text_dir)
     latin_encoding = 'latin'
 
@@ -52,8 +52,8 @@ if __name__ == "__main__":
     #         corpus.append(fin.read())
 
     # %% Extract the MD&A section
-    bank_text_dir = 'E:/Researchcode/Banktext10Q/'
-    cleandir_ = 'E:/Researchcode/Banktext10QClean'
+    bank_text_dir = 'Banktext10Q/'
+    cleandir_ = 'Banktext10QClean'
     bank_text_files = os.listdir(bank_text_dir)
     print(bank_text_files)
     for bank_text_file in bank_text_files:
@@ -64,22 +64,26 @@ if __name__ == "__main__":
             # the ITEM7s and ITEM8s. If he doesn't find it, it will say -1
             # All information between items that will start  with ITEM 7 and end with ITEM 8
 
-            item2_begins = ['ITEM 2.', 'ITEM 2 –', 'ITEM 2:', 'ITEM 2 ',
-                            'Item 2.', 'Item 2 –', 'Item 2:', 'Item 2 ']
-            item2_ends = ['ITEM 3', 'Item 3', 'ITEM 3.', 'Item 3.']
+            # item2_begins = ['ITEM 2.', 'ITEM 2 –', 'ITEM 2:', 'ITEM 2 ',
+            #                 'Item 2.', 'Item 2 –', 'Item 2:', 'Item 2 ']
+            # item2_ends = ['ITEM 3', 'Item 3', 'ITEM 3.', 'Item 3.']
 
-            beg = []
-            for tx in item2_begins:
-                if text.find(tx) != -1:
-                    beg.append(text.rfind(tx))
+            # beg = []
+            # for tx in item2_begins:
+            #     if text.find(tx) != -1:
+            #         beg.append(text.find(tx))
+            #
+            # end = []
+            # for tx in item2_ends:
+            #     if text.find(tx) != -1:
+            #         end.append(text.find(tx))
+            #
+            # # Text is where the MDA is. .STRIP() gets rid off the extra spaces
+            # for beg_i, end_i in beg end:
 
-            end = []
-            for tx in item2_ends:
-                if text.find(tx) != -1:
-                    end.append(text.rfind(tx))
+            all_matched_tockens = re.findall(r"(item\s?2\.?-?:?)(.*)(item\s?3\.?-?:?)", text, re.I | re.S)
 
-            # Text is where the MDA is. .STRIP() gets rid off the extra spaces
-            mda = text[beg[0]:end[0]].strip()
+            mda = all_matched_tockens[-1][1].strip()
             mda = strip_tags(mda)
 
             # remove numbers
@@ -97,12 +101,9 @@ if __name__ == "__main__":
 
             # Capitalize because words in LM are in CAPs
             mda = mda.upper()
-            corpus[bank_text_file.name] = mda
+            corpus[bank_text_file] = mda
 
-            # Convert string into list
-            df_mda.to_csv(bank_text_dir + bank_text_file + 'cleaned.csv', index=False)
 
-    # gensim
 
     logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 

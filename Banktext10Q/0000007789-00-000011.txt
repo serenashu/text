@@ -1,0 +1,1920 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ L7zemhQzhdg7Iv49Caz8kiVfxVsYr18kwNuIm78ncDL1l0Ma+xxL/tbBjj/syEEY
+ VJw6bCBHy4rjJfzrkZWDOA==
+
+<SEC-DOCUMENT>/in/edgar/work/20000811/0000007789-00-000011/0000007789-00-000011.txt : 20000921
+<SEC-HEADER>0000007789-00-000011.hdr.sgml : 20000921
+ACCESSION NUMBER:		0000007789-00-000011
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000630
+FILED AS OF DATE:		20000811
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASSOCIATED BANC-CORP
+		CENTRAL INDEX KEY:			0000007789
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6022
+]		IRS NUMBER:				391098068
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-05519
+			FILM NUMBER:		692527
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		112 NORTH ADAMS ST
+				STREET 2:		P O BOX 13307
+				CITY:			GREEN BAY
+				STATE:			WI
+				ZIP:			54301
+				BUSINESS PHONE:		4144333166
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		112 NORTH ADAMS STREET
+					STREET 2:		P O BOX 13307
+					CITY:			GREEN BAY
+					STATE:			WI
+					ZIP:			54307-3307
+</MAIL-ADDRESS>
+
+					FORMER COMPANY:	
+						FORMER CONFORMED NAME:	ASSOCIATED BANK SERVICES INC
+						DATE OF NAME CHANGE:	19770626
+</FORMER-COMPANY>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                    FORM 10-Q
+(Mark One)
+
+    X     QUARTERLY   REPORT  PURSUANT  TO  SECTION  13  OR  15(d)  OF  THE
+ -------  SECURITIES EXCHANGE ACT OF 1934
+
+          For the quarterly period ended            June 30, 2000
+                                         ---------------------------------------
+
+                                       OR
+
+          TRANSITION  REPORT  PURSUANT TO SECTION 13 OR 15(d) OF THE
+ -------  SECURITIES EXCHANGE ACT OF 1934
+
+          For the transition period from                    to
+                                         ------------------    -----------------
+
+Commission file number                 0-5519
+                      ----------------------------------------------------------
+
+                              Associated Banc-Corp
+- --------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+           Wisconsin                                      39-1098068
+- --------------------------------------------------------------------------------
+(State or other  jurisdiction of               (IRS employer identification no.)
+ incorporation  or  organization)
+
+1200 Hansen Road, Green Bay, Wisconsin                       54304
+- --------------------------------------------------------------------------------
+(Address of principal executive offices)                  (Zip code)
+
+                                 (920) 491-7000
+- --------------------------------------------------------------------------------
+              (Registrant's telephone number, including area code)
+
+- --------------------------------------------------------------------------------
+                 (Former name, former address and former fiscal
+                      year, if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports)  and  (2)  has  been  subject  to such  filing
+requirements for the past 90 days.
+
+                               Yes    X     No
+                                    -----      -----
+
+                      APPLICABLE ONLY TO CORPORATE ISSUERS:
+
+The number of shares  outstanding of registrant's  common stock, par value $0.01
+per share, at July 31, 2000, was 68,533,348 shares.
+
+
+<PAGE>
+
+
+
+
+                              ASSOCIATED BANC-CORP
+                                TABLE OF CONTENTS
+
+
+                                                                      Page No.
+                                                                       ------
+PART I. Financial Information
+
+        Item 1.  Financial Statements (Unaudited):
+
+                 Consolidated Balance Sheets -
+                 June 30, 2000, June 30, 1999 and
+                 December 31, 1999
+
+                 Consolidated Statements of Income -
+                 Three and Six Months Ended
+                 June 30, 2000 and 1999
+
+                 Consolidated Statement of Changes in
+                 Stockholders' Equity -
+                 Six Months Ended June 30, 2000
+
+                 Consolidated Statements of Cash Flows -
+                 Six Months Ended June 30, 2000 and 1999
+
+                 Notes to Consolidated Financial Statements
+
+         Item 2. Management's Discussion and Analysis of
+                 Financial Condition and Results of Operations
+
+         Item 3. Quantitative and Qualitative Disclosures About
+                 Market Risk
+
+PART II. Other Information
+
+         Item 4. Submission of Matters to a Vote of Security Holders
+         Item 6. Exhibits and Reports on Form 8-K
+
+ Signatures
+
+
+
+
+<PAGE>
+
+
+
+                         PART I - FINANCIAL INFORMATION
+
+ITEM 1.  Financial Statements:
+
+                              ASSOCIATED BANC-CORP
+                           Consolidated Balance Sheets
+                                   (Unaudited)
+
+                                         June 30,      June 30,     December 31,
+                                           2000          1999           1999
+                                       -----------------------------------------
+                                          ($ in Thousands, except share data)
+ASSETS
+Cash and due from banks                $   338,727   $   248,019   $   284,652
+Interest-bearing deposits in other
+  financial institutions                     4,721         5,333         4,394
+Federal funds sold and securities
+  purchased under agreements to resell     116,320        35,500        25,120
+Investment securities:
+  Held to maturity-at amortized cost
+    (fair value of  $385,283, $483,922,
+     and $413,107, respectively)           391,414       479,142       414,037
+  Available for sale-at fair value
+    (amortized cost of $2,915,152,
+     $2,626,334, and $2,901,607,
+     respectively)                       2,848,595     2,611,650     2,856,346
+Loans held for sale                         11,773        83,800        11,955
+Loans                                    8,696,417     7,634,576     8,343,100
+Allowance for loan losses                 (115,395)     (103,735)     (113,196)
+                                        --------------------------------------
+    Loans, net                           8,581,022     7,530,841     8,229,904
+Premises and equipment                     134,924       137,513       140,100
+Other assets                               570,763       490,986       553,394
+                                        ======================================
+    Total assets                       $12,998,259   $11,622,784   $12,519,902
+                                        ======================================
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Noninterest-bearing deposits           $ 1,131,871   $   973,854   $ 1,103,931
+Interest-bearing deposits                8,113,520     7,515,832     7,587,898
+                                        ----------------------------------------
+    Total deposits                       9,245,391     8,489,686     8,691,829
+Short-term borrowings                    2,555,837     2,105,821     2,775,090
+Long-term debt                             122,792        25,661        24,283
+Accrued expenses and other liabilities     144,016       104,410       118,911
+                                        ----------------------------------------
+    Total liabilities                   12,068,036    10,725,578    11,610,113
+
+Stockholders' equity
+  Preferred stock                             ---           ---           ---
+  Common stock (par value $0.01
+    per share, authorized 100,000,000
+    shares, ssued 68,798,457,
+    69,728,707 and 69,728,707 shares,
+    respectively)                              688           634           634
+  Surplus                                  355,279       225,757       226,042
+  Retained earnings                        624,661       684,020       728,754
+  Accumulated other comprehensive loss     (42,861)       (9,609)      (38,782)
+  Treasury stock at cost (262,718,
+    114,658 and 208,571 shares,
+    respectively)                           (7,544)       (3,596)       (6,859)
+                                        ----------------------------------------
+    Total stockholders' equity             930,223       897,206       909,789
+                                        ----------------------------------------
+    Total liabilities and
+     stockholders' equity              $12,998,259   $11,622,784   $12,519,902
+                                        ========================================
+
+See accompanying notes to consolidated financial statements.
+
+
+<PAGE>
+
+
+ITEM 1.  Financial Statements Continued:
+
+
+                              ASSOCIATED BANC-CORP
+                        Consolidated Statements of Income
+                                   (Unaudited)
+
+                                        Three Months Ended      Six Months
+                                            June 30,          Ended June 30,
+                                          2000      1999      2000      1999
+                                       -----------------------------------------
+                                        (In Thousands, except per share data)
+INTEREST INCOME
+  Interest and fees on loans            $177,650  $151,576  $349,889  $301,959
+  Interest and dividends
+    on investment securities:
+      Taxable                             40,782    40,170    82,504    80,349
+      Tax exempt                           9,171     5,281    17,367    10,020
+   Interest on deposits in other
+      financial institutions                 106       119       170       280
+   Interest on federal funds sold
+      and securities purchased under
+      agreements to resell                   589       231     1,141       469
+                                         ---------------------------------------
+      Total interest income              228,298   197,377   451,071   393,077
+INTEREST EXPENSE
+   Interest on deposits                   92,137    75,543   173,695   152,942
+   Interest on short-term borrowings      38,074    23,858    79,495    44,919
+   Interest on long-term debt              1,725       425     3,170       867
+                                         ---------------------------------------
+      Total interest expense             131,936    99,826   256,360   198,728
+                                         ---------------------------------------
+NET INTEREST INCOME                       96,362    97,551   194,711   194,349
+   Provision for loan losses               5,166     4,547    10,881     8,998
+                                         ---------------------------------------
+   Net interest income after
+     provision for loan losses            91,196    93,004   183,830   185,351
+
+NONINTEREST INCOME
+   Trust service fees                      9,526     9,608    19,649    19,189
+   Service charges on deposit
+     accounts                              8,207     6,773    15,681    13,690
+   Mortgage banking                        4,902     8,043     9,492    19,435
+   Credit card and other nondeposit
+     fees                                  7,260     5,094    12,536     9,652
+   Retail commissions                      5,337     4,897    10,945     8,783
+   Asset sale gains, net                  13,043       321    21,307       603
+   Investment securities gains
+     (losses), net                        (5,490)    1,023    (7,192)    4,612
+   Other                                   7,703     5,129    14,014     9,131
+                                         ---------------------------------------
+     Total noninterest income             50,488    40,888    96,432    85,095
+NONINTEREST EXPENSE
+   Salaries and employee benefits         38,916    39,153    77,554    77,383
+   Occupancy                               5,672     5,581    11,816    11,507
+   Equipment                               3,755     3,725     7,852     7,417
+   Data processing                         6,708     5,167    12,387    10,462
+   Business development and
+     advertising                           3,269     3,270     6,499     6,329
+   Stationery and supplies                 1,999     2,021     3,823     3,892
+   FDIC expense                              421       716       898     1,578
+   Other                                  20,291    16,888    38,813    36,537
+                                         ---------------------------------------
+     Total noninterest expense            81,031    76,521   159,642   155,105
+                                         ---------------------------------------
+Income before income taxes                60,653    57,371   120,620   115,341
+Income tax expense                        16,956    17,495    33,842    36,514
+                                         =======================================
+NET INCOME                              $ 43,697  $ 39,876  $ 86,778  $ 78,827
+                                         =======================================
+
+Earnings per share:
+   Basic                                $   0.63  $   0.57  $   1.25  $   1.13
+   Diluted                              $   0.63  $   0.57  $   1.25  $   1.12
+Average shares outstanding:
+   Basic                                  68,918    69,670    69,211    69,603
+   Diluted                                69,206    70,314    69,508    70,228
+
+See accompanying notes to consolidated financial statements.
+
+
+<PAGE>
+
+
+ITEM 1.  Financial Statements Continued:
+
+
+                              ASSOCIATED BANC-CORP
+            Consolidated Statement of Changes in Stockholders' Equity
+                                   (Unaudited)
+
+<TABLE>
+                                                           Accumulated
+                                                              Other
+                              Common            Retained   Comprehensive Treasury
+                              Stock   Surplus   Earnings       Loss       Stock      Total
+                             ------------------------------------------------- ------------
+                                                    ($ in Thousands)
+<S>                            <C>    <C>       <C>         <C>          <C>       <C>
+Balance, December 31, 1999     $634   $226,042  $728,754    $(38,782)    $(6,859)  $909,789
+Comprehensive income:
+   Net income                   ---        ---    86,778         ---         ---     86,778
+   Net unrealized holding
+     losses arising during
+     the period                 ---        ---       ---     (13,640)        ---    (13,640)
+   Add back:
+     reclassification
+     adjustment for net gains
+     (losses) realized in net
+     income                     ---        ---       ---       7,192         ---      7,192
+   Income tax effect            ---        ---       ---       2,369         ---      2,369
+                                                                                   --------
+       Comprehensive income                                                          82,699
+                                                                                   --------
+Cash dividends, $0.53 per
+    share                       ---        ---   (36,566)        ---         ---    (36,566)
+Common stock issued:
+  Stock options exercised       ---        ---    (3,072)        ---       5,064      1,992
+  10% stock dividend             63    151,170  (151,233)        ---         ---        ---
+Purchase and retirement of
+  treasury stock in
+  connection with
+  repurchase program             (9)   (22,432)      ---         ---       7,782    (14,659)
+Tax benefit of stock
+  options                       ---        499       ---         ---         ---        499
+Purchase of treasury stock      ---        ---       ---         ---     (13,531)   (13,531)
+                             ==============================================================
+Balance, June 30, 2000         $688   $355,279  $624,661    $(42,861)   $( 7,544)  $930,223
+                             ==============================================================
+</TABLE>
+
+See accompanying notes to consolidated financial statements.
+
+
+<PAGE>
+
+
+ITEM 1.  Financial Statements Continued:
+
+                              ASSOCIATED BANC-CORP
+                      Consolidated Statements Of Cash Flows
+                                   (Unaudited)
+
+                                                       For the Six Months Ended
+                                                               June 30,
+                                                           2000          1999
+                                                       -------------------------
+                                                           ($ in Thousands)
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income                                               $ 86,778     $ 78,827
+Adjustments to reconcile net income to net
+  cash provided by operating activities:
+  Provision for loan losses                                10,881        8,998
+  Depreciation and amortization                             9,957        9,002
+  Amortization (accretion) of:
+    Mortgage servicing rights                               4,779        2,420
+    Intangibles                                             4,492        3,478
+    Investment premiums and discounts                         235          970
+    Deferred loan fees and costs                           (1,369)        (751)
+  (Gain) loss on sales of securities, net                   7,192       (4,612)
+  Gain on sale of assets, net                             (21,307)        (603)
+  Gain on sales of loans held for sale, net                (1,135)      (9,029)
+  Decrease in loans held for sale, net                      1,317       90,399
+  Increase in interest receivable and other
+   assets                                                 (25,246)     (32,958)
+  Increase (decrease) in interest payable and
+  other liabilities                                         5,105       (14,799)
+                                                       -------------------------
+Net cash provided by operating activities                  81,679        131,342
+                                                       -------------------------
+CASH FLOWS FROM INVESTING ACTIVITIES
+Net increase in federal funds sold and
+  securities purchased under
+  agreements to resell                                    (91,200)      (19,615)
+Net (increase) decrease in interest-bearing
+  deposits in other financial institutions                   (327)      195,151
+Net increase in loans                                    (486,370)     (296,914)
+Purchases of:
+  Securities available for sale                          (632,145)     (775,344)
+  Premises and equipment, net of disposals                 (6,413)       (6,027)
+  Bank-owned life insurance                                   ---      (100,000)
+Proceeds from:
+  Sales of securities available for sale                  458,464        36,178
+  Maturities of securities available for sale             167,697       528,809
+  Maturities of securities held to maturity                22,483        71,405
+  Sale of credit card receivables                         156,376           ---
+  Sales of other real estate owned and other assets         5,591         3,112
+Net cash received in acquisition of subsidiary                ---         3,956
+                                                       -------------------------
+Net cash used by investing activities                    (405,844)     (359,289)
+                                                       -------------------------
+CASH FLOWS FROM FINANCING ACTIVITIES
+Net increase (decrease) in deposits                       635,932      (220,247)
+Net increase (decrease) in short-term borrowings         (219,254)      417,014
+Repayment of long-term debt                                (1,491)         (420)
+Proceeds from issuance of long-term debt                  100,000           ---
+Cash dividends                                            (36,566)      (36,861)
+Proceeds from exercise of stock options                     1,992         1,855
+Sales of branch deposits                                  (74,183)          ---
+Purchase of treasury stock                                (28,190)      (16,907)
+                                                       -------------------------
+Net cash provided by financing activities                 378,240       144,434
+                                                       -------------------------
+Net  increase (decrease) in cash and due
+  from banks                                               54,075       (83,513)
+Cash and due from banks at beginning of period            284,652       331,532
+                                                       =========================
+Cash and due from banks at end of period                 $338,727      $248,019
+                                                       =========================
+Supplemental  disclosures of cash flow
+  information:
+Cash paid during the period for:
+  Interest                                               $248,434      $203,858
+  Income taxes                                             42,995        38,501
+Supplemental schedule of noncash investing
+  activities:
+  Loans transferred to other real estate                    3,506         6,528
+  Mortgage loans securitized and transferred
+  to securities available for sale                            ---        41,201
+
+See accompanying notes to consolidated financial statements.
+
+
+<PAGE>
+
+
+ITEM 1.  Financial Statements Continued:
+
+                              ASSOCIATED BANC-CORP
+                   Notes to Consolidated Financial Statements
+
+NOTE 1:  Basis of Presentation
+
+In the opinion of management,  the accompanying unaudited consolidated financial
+statements  contain  all  adjustments  necessary  to present  fairly  Associated
+Banc-Corp's (the "Corporation")  financial  position,  results of its operations
+and cash flows for the  periods  presented,  and all such  adjustments  are of a
+normal recurring  nature.  The  consolidated  financial  statements  include the
+accounts  of  all  subsidiaries.  All  material  intercompany  transactions  and
+balances are  eliminated.  The results of operations for the interim periods are
+not necessarily indicative of the results to be expected for the full year.
+
+These interim consolidated  financial statements have been prepared according to
+the rules  and  regulations  of the  Securities  and  Exchange  Commission  and,
+therefore,  certain information and footnote  disclosures  normally presented in
+accordance with generally  accepted  accounting  principles have been omitted or
+abbreviated.  The information contained in the consolidated financial statements
+and footnotes in the  Corporation's  1999 annual report on Form 10-K,  should be
+referred to in connection with the reading of these unaudited  interim financial
+statements.
+
+In preparing the consolidated  financial  statements,  management is required to
+make estimates and  assumptions  that affect the reported  amounts of assets and
+liabilities  as of the date of the balance  sheet and  revenues and expenses for
+the period.  Actual  results could differ  significantly  from those  estimates.
+Estimates that are  particularly  susceptible to significant  change include the
+determination  of the allowance for loan losses and the valuation of investments
+and mortgage servicing rights.
+
+NOTE 2:  Reclassifications
+
+Certain items in the prior period  consolidated  financial  statements have been
+reclassified to conform with the June 30, 2000 presentation.
+
+NOTE 3:  Business Combinations
+
+The following  table  summarizes  completed  business  combination  transactions
+during  1999.   There  were  no  completed  or  pending   business   combination
+transactions as of June 30, 2000.
+
+<TABLE>
+                                                        Consideration Paid
+                                                        -------------------
+                                                          Shares
+                                            Method         of
+  Name of Acquired            Date            of          Common            Total
+   ($ in millions)          Acquired      Accounting      Stock     Cash    Assets  Loans   Deposits  Intangibles
+- ---------------------------- -------- -------- --------- --------- ------- -------- ------- ---------------------
+<S>                          <C>           <C>          <C>         <C>      <C>     <C>      <C>          <C>
+BNC Financial Corporation    12/31/99      Purchase           ---   $5.3     $ 35    $ 33     $---         $ 1
+("BNC")
+St Cloud, Minnesota
+
+Riverside Acquisition         8/31/99      Purchase     2,677,405   $---     $374    $266     $337         $67
+Corp. ("Riverside")
+Minneapolis, Minnesota
+
+Windsor Bancshares, Inc.       2/3/99      Purchase       879,957   $---     $182    $113     $152         $17
+("Windsor")
+Minneapolis, Minnesota
+
+</TABLE>
+
+The consolidated  financial statements include the results of operations for the
+acquisitions  accounted  for  under  the  purchase  method  since  the  date  of
+acquisition.
+
+During  the first  quarter  of 2000,  Riverside  and  Windsor  merged and became
+Associated Bank Minnesota.  Effective March 31, 2000, BNC operated as Associated
+Commercial Finance, Inc.
+
+NOTE 4:  Adoption of Statements of Financial Accounting Standards ("SFAS")
+
+SFAS No. 133, "Accounting for Derivative Instruments and Hedging Activities," as
+amended by SFAS No. 137,  "Accounting  for  Derivative  Instruments  and Hedging
+Activities - Deferral of the Effective Date of FASB Statement No. 133," and SFAS
+No. 138,  "Accounting  for Certain  Derivative  Instruments  and Certain Hedging
+Activities,"  requires  derivative  instruments  be carried at fair value on the
+balance sheet.  The statement  continues to allow  derivative  instruments to be
+used to hedge  various  risks and sets  forth  specific  criteria  to be used to
+determine  when hedge  accounting  can be used.  The statement also provides for
+offsetting  changes in fair value or cash flows of both the  derivative  and the
+hedged  asset or  liability  to be  recognized  in earnings in the same  period;
+however,  any changes in fair value or cash flow that represent the  ineffective
+portion of a hedge are  required  to be  recognized  in  earnings  and cannot be
+deferred.  For derivative  instruments  not accounted for as hedges,  changes in
+fair value are required to be recognized in earnings.
+
+The Corporation plans to adopt the provisions of this statement, as amended, for
+its quarterly and annual  reporting  beginning  January 1, 2001, the statement's
+effective  date.  The impact of adopting the provisions of this statement on the
+Corporation's  financial  position,   results  of  operations,   and  cash  flow
+subsequent to the effective date is currently being  evaluated,  but will depend
+on the financial  position of the  Corporation and the nature and purpose of the
+derivative instruments in use at that time.
+
+NOTE 5:  Earnings Per Share
+
+Basic  earnings  per share is  calculated  by dividing  net income  available to
+common stockholders by the weighted average number of common shares outstanding.
+Diluted  earnings per share is calculated by dividing net income by the weighted
+average number of shares adjusted for the dilutive  effect of outstanding  stock
+options.
+
+On April 26, 2000, the Board of Directors declared a 10% stock dividend, payable
+June 15 to  shareholders of record at the close of business on June 1. All share
+and per share data in the accompanying consolidated financial statements, except
+for  the  share  information  in  the  consolidated   statement  of  changes  in
+stockholders' equity, have been adjusted to reflect the 10% stock dividend paid.
+As a result of the stock  dividend,  the  Corporation  distributed  6.3  million
+shares of common  stock,  common  stock was  increased  by $63,000,  surplus was
+increased  by $151.2  million and  retained  earnings  were  decreased by $151.2
+million. Any fractional shares resulting from the dividend were paid in cash.
+
+Presented below are the calculations for basic and diluted earnings per share:
+
+                                         Three Months Ended      Six Months
+                                             June 30,          Ended June 30,
+                                           2000     1999       2000      1999
+                                       -----------------------------------------
+                                        ($ in Thousands, except per share data)
+
+Net income available to
+  common stockholders                    $43,697   $39,876    $86,778   $78,827
+                                          ======================================
+
+Weighted average shares outstanding       68,918    69,670     69,211    69,603
+Effect of dilutive stock options
+  outstanding                                288       644        297       625
+                                          ======================================
+Diluted weighted average shares
+  outstanding                             69,206    70,314     69,508    70,228
+                                          ======================================
+
+Basic earnings per common share          $  0.63   $  0.57    $  1.25   $  1.13
+                                          ======================================
+Diluted earnings per common share        $  0.63   $  0.57    $  1.25   $  1.12
+                                          ======================================
+<PAGE>
+
+
+NOTE 6:  Interest Rate Swaps
+
+As part  of  managing  the  Corporation's  interest  rate  risk,  a  variety  of
+derivative  financial  instruments  could be used to hedge market  values and to
+alter the cash flow characteristics of certain on-balance sheet instruments. The
+Corporation has principally used interest rate swaps. The derivative instruments
+used to manage  interest rate risk are linked with a specific asset or liability
+or a group of related  assets or  liabilities at the inception of the derivative
+contract  and  currently  have a high  degree of  correlation  with the  related
+balance  sheet item during the hedge period.  The pay fixed  interest rate swaps
+hedge money  market  deposits,  and the pay variable  interest  rate swap hedges
+certificates of deposit.
+
+Net interest  income or expense on derivative  contracts  used for interest rate
+risk  management  is  recorded  in the  consolidated  statements  of income as a
+component of interest  income or interest  expense  depending  on the  financial
+instrument  to which  the swap is  designated.  Realized  gains  and  losses  on
+contracts, either settled or terminated, are deferred and are recorded as either
+an adjustment  to the carrying  value of the related  on-balance  sheet asset or
+liability  or in  other  assets  or  other  liabilities.  Deferred  amounts  are
+amortized  into interest  income or expense over either the  remaining  original
+life of the  derivative  instrument or the expected life of the related asset or
+liability that was being hedged.  Unrealized  gains or losses on these contracts
+are not  recognized  on the  balance  sheet.  The  table  below  summarizes  the
+Corporation's  interest rate swaps at June 30, 2000. There were no interest rate
+swaps at June 30, 1999.
+
+                                   Estimated             Weighted Average
+                                             -----------------------------------
+                       Notional   Fair Market                         Remaining
+                       Amount        Value    Pay Rate  Receive Rate  Maturity
+- --------------------------------------------------------------------------------
+                          ($ in Thousands)
+
+Pay fixed swaps       $  300,000   $   3,582    6.36%      6.32%      23 months
+Pay variable swap     $   10,000   $      (8)   5.91%      6.35%       9 months
+- --------------------------------------------------------------------------------
+
+NOTE 7:  Segment Reporting
+
+SFAS  No.  131,  "Disclosures  About  Segments  of  an  Enterprise  and  Related
+Information,"  requires  selected  financial and descriptive  information  about
+reportable  operating  segments.  The statement  replaces the "industry segment"
+concept  of SFAS No. 14 with a  "management  approach"  concept as the basis for
+identifying  reportable  segments.  The management  approach is based on the way
+that  management  organizes  the  segments  within  the  enterprise  for  making
+operating   decisions,   allocating   resources,   and  assessing   performance.
+Consequently,  the segments are evident from the  structure of the  enterprise's
+internal  organization,  focusing on financial  information that an enterprise's
+chief operating  decision-makers  use to make decisions  about the  enterprise's
+operating matters.
+
+The  Corporation's  reportable  segment is banking,  conducted through its bank,
+leasing, mortgage, insurance and brokerage subsidiaries. For purposes of segment
+disclosure   under  this  statement,   these  entities  have  similar   economic
+characteristics  and  the  nature  of  their  products,   services,   processes,
+customers, delivery channels and regulatory environment are similar.
+
+The "other" segment is comprised of smaller  nonreportable  segments,  including
+asset management,  consumer finance, treasury,  holding company investments,  as
+well  as  inter-segment   eliminations  and  residual   revenues  and  expenses,
+representing  the difference  between  actual  amounts  incurred and the amounts
+allocated to operating segments.
+
+<PAGE>
+
+
+Selected segment information is presented below.
+
+- --------------------------------------------------------------------------------
+                                                                   Consolidated
+                               Banking      Other    Eliminations     Total
+- --------------------------------------------------------------------------------
+As of and for the three                        ($ in Thousands)
+  months ended June 30, 2000
+
+Total assets                 $13,747,340  $1,200,735  $(1,949,816)  $12,998,259
+                              =================================================
+
+Interest income              $   241,106  $    5,419  $   (18,227)      228,298
+Interest expense                 146,341       3,822      (18,227)      131,936
+                              -------------------------------------------------
+  Net interest income             94,765       1,597          ---        96,362
+Provision for loan losses          3,911       1,255          ---         5,166
+Noninterest income                49,924      32,396      (31,832)       50,488
+Depreciation and amortization      6,819       2,451          ---         9,270
+Other noninterest expense         73,912      29,681      (31,832)       71,761
+Income taxes                      17,495        (539)         ---        16,956
+                              -------------------------------------------------
+  Net income                 $    42,552  $    1,145  $       ---        43,697
+                              =================================================
+
+As of and for the three
+  months ended June 30, 1999
+
+Total assets                 $12,314,683  $1,103,619  $(1,795,518)  $11,622,784
+                              =================================================
+
+Interest income              $   204,401  $    3,950  $   (10,974)      197,377
+Interest expense                 107,553       3,247      (10,974)       99,826
+                              -------------------------------------------------
+  Net interest income             96,848         703          ---        97,551
+Provision for loan losses          4,397         150          ---         4,547
+Noninterest income                38,213      29,752      (27,077)       40,888
+Depreciation and amortization      3,284       2,172          ---         5,456
+Other noninterest expense         76,257      21,887      (27,079)       71,065
+Income taxes                      14,826       2,186          483        17,495
+                              -------------------------------------------------
+  Net income                 $    36,297  $    4,060  $      (481)   $   39,876
+                              =================================================
+- --------------------------------------------------------------------------------
+<PAGE>
+
+
+- --------------------------------------------------------------------------------
+                                                                   Consolidated
+                               Banking      Other    Eliminations     Total
+- --------------------------------------------------------------------------------
+As of and for the six months                  ($ in Thousands)
+ended June 30, 2000
+
+Total assets                 $13,747,340  $1,200,735  $(1,949,816)   12,998,259
+                              =================================================
+
+Interest income              $   475,909  $   10,446  $   (35,284)      451,071
+Interest expense                 284,040       7,604      (35,284)      256,360
+                              -------------------------------------------------
+  Net interest income            191,869       2,842          ---       194,711
+Provision for loan losses          9,408       1,473          ---        10,881
+Noninterest income                96,435      65,575      (65,578)       96,432
+Depreciation and amortization     13,856       4,951          ---        18,807
+Other noninterest expense        149,579      56,834      (65,578)      140,835
+Income taxes                      32,927         915          ---        33,842
+                              -------------------------------------------------
+  Net income                 $    82,534  $    4,244  $       ---        86,778
+                              =================================================
+
+As of and for the six months
+ended June 30, 1999
+
+Total assets                 $12,314,683  $1,103,619  $(1,795,518)  $11,622,784
+                              =================================================
+
+Interest income              $   402,612  $    8,822  $   (18,357)  $   393,077
+Interest expense                 209,823       7,262      (18,357)      198,728
+                              -------------------------------------------------
+  Net interest income            192,789       1,560          ---       194,349
+Provision for loan losses          8,732         266          ---         8,998
+Noninterest income                78,455      58,909      (52,269)       85,095
+Depreciation and amortization      9,706       4,094          ---        13,800
+Other noninterest expense        147,621      45,952      (52,268)      141,305
+Income taxes                      32,716       3,710           88        36,514
+                              -------------------------------------------------
+  Net income                 $    72,469  $    6,447  $       (89)  $    78,827
+                              =================================================
+- --------------------------------------------------------------------------------
+<PAGE>
+
+
+
+ITEM 2.  Management's  Discussion  and Analysis of Financial  Condition  and the
+Results of Operations
+
+Forward-Looking Statements
+
+Forward-looking  statements  have been made in this document that are subject to
+risks and uncertainties.  These forward-looking statements describe future plans
+or strategies and include Associated Banc-Corp's  expectations of future results
+of operations.  The words "believes," "expects," "anticipates," or other similar
+expressions identify forward-looking statements.
+
+Shareholders  should  note that  many  factors,  some of which may be  discussed
+elsewhere  in this  document  could  affect  the  future  financial  results  of
+Associated Banc-Corp (the "Corporation") and could cause those results to differ
+materially from those expressed in forward-looking  statements contained in this
+document. These factors include the following:
+
+     -    operating,  legal, and regulatory  risks;
+
+     -    economic,    political,   and   competitive   forces   affecting   the
+          Corporation's  banking,   securities,  asset  management,  and  credit
+          services businesses; and
+
+     -    the risk that the  Corporation's  analyses  of these  risks and forces
+          could be  incorrect  and/or that the  strategies  developed to address
+          them could be unsuccessful.
+
+These factors should be considered in evaluating the forward-looking statements,
+and undue reliance should not be placed on such statements.
+
+Overview
+
+The   following   discussion   and  analysis  is  presented  to  assist  in  the
+understanding  and  evaluation  of the  Corporation's  financial  condition  and
+results of  operations.  It is intended to complement  the  unaudited  financial
+statements,  footnotes,  and supplemental  financial data appearing elsewhere in
+this Form 10-Q and should be read in conjunction therewith.
+
+On April 26, 2000, the Board of Directors declared a 10% stock dividend, payable
+June 15 to  shareholders of record at the close of business on June 1, 2000. All
+share and per share  financial  information has been adjusted to reflect the 10%
+stock  dividend  paid  (see  Note  5 of  the  Notes  to  Consolidated  Financial
+Statements).
+
+The  following  discussion  refers to the impact of the  Corporation's  business
+combination  activity  (see  Note  3 of  the  Notes  to  Consolidated  Financial
+Statements).
+
+Management  continually evaluates strategic acquisition  opportunities and other
+various  strategic  alternatives  that could involve the sale or  acquisition of
+branches or other assets, or the consolidation or creation of subsidiaries.
+
+Results of Operations - Summary
+
+Net income for the first six months of 2000 ("YTD00") totaled $86.8 million,  or
+$1.25 for basic and  diluted  earnings  per share  ("EPS").  Comparatively,  net
+income for the first six months of 1999  ("YTD99") was $78.8  million,  or $1.13
+and  $1.12 of basic and  diluted  EPS,  respectively.  YTD00  operating  results
+generated  an  annualized  return  on  average  assets  ("ROA")  of 1.38% and an
+annualized  return on average  equity  ("ROE") of 19.19%,  compared to 1.41% and
+17.54%, respectively, for the same period in 1999. YTD00 net interest margin was
+3.41% compared to 3.76% for the comparable period in 1999.
+
+
+- --------------------------------------------------------------------------------
+                                            TABLE 1
+                             Summary Results of Operations: Trends
+                            ($ in Thousands, except per share data)
+
+                              2nd Qtr.  1st Qtr.   4th Qtr.  3rd Qtr.   2nd Qtr.
+                                2000      2000       1999      1999       1999
+- --------------------------------------------------------------------------------
+Net income (Qtr)             $ 43,697  $ 43,081   $ 44,334  $  41,782  $ 39,876
+Net income (YTD)             $ 86,778  $ 43,081    164,943  $ 120,609  $ 78,827
+
+Earnings per share -
+    basic (Qtr)              $   0.63  $   0.62       0.63  $    0.60  $   0.57
+Earnings per share -
+    basic (YTD)              $   1.25  $   0.62       2.36  $    1.73  $   1.13
+
+Earnings per share -
+    diluted (Qtr)            $   0.63  $   0.62       0.63  $    0.59  $   0.57
+Earnings per share -
+    diluted (YTD)            $   1.25  $   0.62       2.34  $    1.71  $   1.12
+
+Earnings per share -
+    cash diluted (Qtr) *     $   0.66  $   0.65       0.66  $    0.61  $   0.59
+
+Earnings per share -
+    cash diluted  (YTD) *    $   1.31  $   0.65       2.43  $    1.77  $   1.16
+
+ROA (Qtr)                        1.39%     1.38%      1.42%      1.40%     1.40%
+ROA (YTD)                        1.38%     1.38%      1.41%      1.40%     1.41%
+
+ROE (Qtr)                       19.06%    19.33%     19.05%     18.01%    17.64%
+ROE (YTD)                       19.19%    19.33%     18.04%     17.70%    17.54%
+
+Efficiency ratio (Qtr) **       56.03%    55.19%     52.31%     52.15%    54.57%
+Efficiency ratio (YTD) **       55.61%    55.19%     53.78%     54.28%    55.37%
+
+Net interest margin (Qtr)        3.37%     3.46%      3.65%      3.70%     3.74%
+Net interest margin (YTD)        3.41%     3.46%      3.74%      3.74%     3.76%
+
+*Cash  diluted  EPS  excludes  the  after-tax  effect  of  the  amortization  of
+goodwill-related intangibles in net income.
+
+**Noninterest  expense divided by sum of taxable  equivalent net interest income
+plus noninterest income,  excluding investment  securities gains (losses),  net,
+and asset sales gains, net.
+
+Net Interest Income and Net Interest Margin
+
+YTD00 net interest  income on a fully taxable  equivalent  basis ("FTE NII") was
+$204.7 million, up $4.5 million or 2.2% over YTD99. As indicated in Tables 2 and
+3,  changes  in the  volume  and  mix of  average  earning  assets  ("EAs")  and
+interest-bearing  liabilities  ("IBLs")  contributed  $19.0  million to FTE NII,
+while  changes in the rate  environment  impacted FTE NII  unfavorably  by $14.5
+million.  Acquisitions,  net of the cost to fund them, added  approximately $2.1
+million to FTE NII between the periods.
+
+The net interest margin ("NIM") was 3.41% for YTD00, down 35 basis points ("bp")
+from 3.76% for YTD99,  reflecting the  sensitivity to rising interest rates (six
+increases in the Fed Fund rate totaling 175 bp since July 1999) embodied  within
+the balance sheet,  greater reliance on more costly wholesale funds and brokered
+CDs,  and certain  balance  sheet  sales.  The impact from  balance  sheet sales
+includes the sale of the higher-yielding credit card receivables, branch deposit
+sales  replaced  with  more  costly  wholesale  funds,  and  certain  investment
+securities sales sold to mitigate  interest rate risk and enhance future yields.
+In addition,  the lower NIM reflects the cost of funding the Corporation's share
+repurchases  during  late  1999  and  YTD00  and the  May  1999  purchase  of an
+additional  $100 million in bank owned life insurance  ("BOLI") (a  non-interest
+earning asset). The Corporation may continue to experience  further  compression
+due to interest rate increases and competitive pricing pressures.
+
+The interest  rate spread (the  difference  between the EA yield and the average
+rate paid on IBLs) dropped 39 bp to 2.86%,  attributable  to a 19 bp rise in the
+yield on EAs and a 58 bp increase in the rate on IBLs.  Yields increased on both
+loans and  investments and other (up 19 bp to 8.17% for loans and 20 bp to 6.59%
+for investments and other).  See Table 2. Wholesale funding costs climbed 112 bp
+(to 5.98% in YTD00). The rate on total interest-bearing deposits increased 34 bp
+(to 4.47%),  a  combination  of a 97 bp  increase  in  brokered  CDs and a 19 bp
+increase in retail interest-bearing deposits.  Reliance on wholesale funding and
+brokered  CDs,  whose cost  increased  faster than total  retail  deposits,  has
+increased to 31.9% for YTD00 compared to 20.6% last year.
+
+On average,  total  assets for YTD00  increased to $12.6  billion,  $1.3 billion
+(11.7%) over YTD99,  predominantly from EAs.  Year-to-date average EAs increased
+by $1.3 billion (12.2%) over the comparable period last year. EA growth occurred
+in both loans and investments,  with loans  representing  71.7% of EAs for YTD00
+compared to 71.5% for YTD99.  Average loans were $8.5  billion,  up $955 million
+(12.6%) over the comparable six-month period last year. Excluding the net impact
+of the  purchase  acquisitions  and the  sale of the  credit  card  receivables,
+average loans grew 8.3%  year-over-year.  As a result of the Corporation's focus
+on increasing the mix of commercial  lending in its  portfolio,  the majority of
+loan  growth  has  come  from  commercial  loans.  See  Table 6.  Total  average
+investments  (including  short-term  investments) were up $335 million (of which
+$290 million was in municipal securities).
+
+YTD00 IBLs were $10.6 billion,  up $1.2 billion (12.9%) over YTD99,  principally
+in wholesale  funding which  increased  $863 million  (46.1%).  Interest-bearing
+deposits grew $346 million (4.6%) (with $199 million  acquired with  Riverside).
+Brokered  CDs drove the growth in deposits,  up $575 million on average  between
+the six-month periods.  During YTD00, five branches with $82 million in deposits
+were sold, and 3 branches with $56 million in deposits were sold during 4Q99.
+
+
+
+
+<PAGE>
+
+<TABLE>
+- --------------------------------------------------------------------------------------------------
+                                             TABLE 2
+                      Net Interest Income Analysis-Taxable Equivalent Basis
+                                         ($ in Thousands)
+- --------------------------------------------------------------------------------------------------
+                              Three Months ended June 30, 2000  Three Months ended June 30, 1999
+                              --------------------------------  --------------------------------
+                                            Interest   Average               Interest    Average
+                                Average      Income/   Yield/     Average     Income/    Yield/
+                                Balance      Expense    Rate      Balance     Expense     Rate
+- --------------------------------------------------------------------------------------------------
+<S>                           <C>           <C>          <C>     <C>          <C>          <C>
+Loans                         $  8,596,648  $  178,001   8.23%  $ 7,641,973   $ 151,790    7.91%
+Investments and other            3,334,295      55,618   6.67     3,066,820      48,712    6.35
+                               -----------------------           ----------------------
+   Total earning assets         11,930,943     233,619   7.79    10,708,793     200,502    7.47
+Other assets, net                  743,230                          734,640
+                               -----------                       ----------
+   Total assets               $ 12,674,173                      $11,443,433
+                               ===========                       ==========
+
+Interest-bearing deposits     $  8,028,650     92,137    4.62%  $ 7,470,730       75,544    4.06%
+Wholesale funding                2,535,132     39,799    6.21     1,991,406       24,282    4.82
+                               ----------------------            -----------------------
+   Total interest-bearing
+   liabilities                  10,563,782    131,936    5.00     9,462,136       99,826    4.22
+                                            ---------                            -------
+Demand, non-interest bearing     1,058,252                          959,566
+Other liabilities                  130,154                          115,228
+Stockholders' equity               921,985                          906,503
+                               -----------                       ----------
+   Total liabilities and                                                                                  $
+     equity                   $ 12,674,173                      $11,443,433
+                               ===========                       ==========
+
+Interest rate spread                                    2.79%                               3.25%
+Net free funds                                          0.58                                0.49
+                                                       =====                                ====
+Net interest income and net                 $  101,683                       $   100,676
+interest margin                                         3.37%                               3.74%
+                                             ===============                  ==================
+Tax equivalent adjustment                   $   5,321                        $     3,125
+- --------------------------------------------------------------------------------------------------
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+- --------------------------------------------------------------------------------------------------
+                                       TABLE 2 (Continued)
+                      Net Interest Income Analysis-Taxable Equivalent Basis
+                                         ($ in Thousands)
+- --------------------------------------------------------------------------------------------------
+                                Six Months ended June 30, 2000    Six Months ended June 30, 1999
+                                ------------------------------    ------------------------------
+                                              Interest  Average                Interest   Average
+                                  Average     Income/   Yield/     Average      Income/   Yield/
+                                  Balance     Expense    Rate      Balance      Expense    Rate
+- --------------------------------------------------------------------------------------------------
+<S>                            <C>            <C>         <C>     <C>          <C>         <C>
+Loans                          $  8,527,965   $ 350,515   8.17%   $ 7,573,451  $ 302,389   7.98%
+Investments and other             3,358,462     110,594   6.59      3,023,247     96,593   6.39
+                                -----------------------            ---------------------
+   Total earning assets          11,886,427     461,109   7.72     10,596,698    398,982   7.53
+Other assets, net                   736,885                           703,925
+                                -----------                        ----------
+   Total assets                $ 12,623,312                       $11,300,623
+                                ===========                        ==========
+
+Interest-bearing deposits      $  7,816,541     173,695   4.47%   $ 7,470,359    152,943   4.13%
+
+Wholesale funding                 2,735,864      82,665   5.98      1,872,553     45,785   4.86
+                               ------------------------             --------------------
+   Total interest-bearing
+   liabilities                   10,552,405     256,360   4.86      9,342,912    198,728   4.28
+                                                -------                          -------
+Demand, non-interest bearing      1,042,500                           931,906
+Other liabilities                   119,145                           119,541
+Stockholders' equity                909,262                           906,264
+                                -----------                        ----------
+   Total liabilities and
+   equity                      $ 12,623,312                      $ 11,300,623
+                                ===========                       ===========
+
+Interest rate spread                                     2.86%                            3.25%
+Net free funds                                           0.55                             0.51
+                                                        =====                            =====
+Net interest income and net
+  interest margin                             $204,749   3.41%                 $ 200,254  3.76%
+                                               ==============                   ==============
+Tax equivalent adjustment                     $ 10,038                         $   5,905
+- --------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+<PAGE>
+
+- --------------------------------------------------------------------------------
+                                     TABLE 3
+                Volume / Rate Variance - Taxable Equivalent Basis
+                                ($ in Thousands)
+- --------------------------------------------------------------------------------
+                                                 Comparison of
+                                   Three months ended June 30, 2000 versus 1999
+                                                     Variance Attributable to
+                                                     ------------------------
+                                    Income/
+                                    Expense
+                                    Variance *       Volume **        Rate **
+- --------------------------------------------------------------------------------
+INTEREST INCOME
+Loans                                $26,211         $19,802        $ 6,409
+Investments and other                  6,906           4,403          2,503
+                                      ------
+   Total interest income              33,117          24,205          8,912
+
+INTEREST EXPENSE
+Interest-bearing deposits            $16,593         $ 5,928        $10,665
+Wholesale funding                     15,517           7,549          7,968
+                                      ------
+   Total interest expense             32,110          13,477         18,633
+
+                                      ------
+   Net interest income               $ 1,007         $10,728        $(9,721)
+                                      ======
+- --------------------------------------------------------------------------------
+<PAGE>
+
+
+
+- --------------------------------------------------------------------------------
+                               TABLE 3 (continued)
+                Volume / Rate Variance - Taxable Equivalent Basis
+                                ($ in Thousands)
+- --------------------------------------------------------------------------------
+                                                 Comparison of
+                                   Three months ended June 30, 2000 versus 1999
+                                                     Variance Attributable to
+                                    Income/          ------------------------
+                                    Expense
+                                    Variance *       Volume **        Rate **
+- --------------------------------------------------------------------------------
+INTEREST INCOME
+
+Loans                                $48,126         $40,483       $  7,643
+Investments and Other                 14,001          10,930          3,071
+                                      ------
+   Total interest income              62,127          51,413         10,714
+
+INTEREST EXPENSE
+Interest-bearing deposits            $20,752         $ 7,839       $ 12,913
+Wholesale funding                     36,880          24,594         12,286
+                                      ------
+   Total interest expense             57,632          32,433         25,199
+
+                                      ------
+   Net interest income               $ 4,495         $18,980       $(14,485)
+                                      ======
+
+* The  change  in  interest  due to both  rate and  volume  has  been  allocated
+proportionately  to volume variance and rate variance based on the  relationship
+of  the  absolute  dollar  change  in  each.
+
+**  Variances  are  computed  on a  line-by-line  basis  and  are  non-additive.
+- --------------------------------------------------------------------------------
+
+Provision for Loan Losses
+
+YTD00 provision for loan losses ("PFLL") was $10.9 million, up $1.9 million from
+YTD99.  YTD00 net  charge-offs  as a percent of average  loans (on an annualized
+basis) were 0.11% compared to YTD99 of 0.19%. See Table 8.
+
+The PFLL is a function of the methodology  used to determine the adequacy of the
+allowance for loan losses.  See additional  discussion  under the "Allowance for
+Loan Losses" section.
+
+Noninterest Income
+
+YTD00 noninterest income was $96.4 million, up $11.3 million (13.3%) compared to
+YTD99.  Primary  categories  that have  impacted the change  between  comparable
+periods  were  mortgage  banking,  and net  gains  (losses)  on both  investment
+securities and asset sales.  Excluding these categories,  noninterest income was
+$72.8 million,  or $12.4 million (20.5%) higher than the comparable 1999 period,
+with all other  noninterest  income  categories  showing increases over the same
+period last year (See Table 4).  Riverside and BNC,  acquired in the second half
+of 1999, added approximately $2.1 million of noninterest income YTD00.
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<TABLE>
+- -------------------------------------------------------------------------------------------------------
+                                              TABLE 4
+                                        Noninterest Income
+                                          ($ in Thousands)
+- -------------------------------------------------------------------------------------------------------
+                               2nd       2nd
+                               Qtr.      Qtr.    Dollar   Percent   YTD       YTD     Dollar   Percent
+                               2000      1999    Change   Change    2000      1999    Change   Change
+- -------------------------------------------------------------------------------------------------------
+<S>                         <C>      <C>       <C>       <C>      <C>       <C>      <C>        <C>
+Trust service fees          $  9,526 $  9,608  $   (82)   (0.9)%  $ 19,649  $ 19,189 $    460     2.4%
+Service charges on
+  deposit accounts             8,207    6,773    1,434    21.2      15,681    13,690    1,991    14.5
+Mortgage banking               4,902    8,043   (3,141)  (39.1)      9,492    19,435   (9,943)  (51.2)
+
+Credit card & other
+  nondeposit fees              7,260    5,094    2,166    42.5      12,536     9,652    2,884    29.9
+Retail commissions             5,337    4,897      440     9.0      10,945     8,783    2,162    24.6
+BOLI income                    3,131    2,270      861    37.9       6,030     3,548    2,482    70.0
+Asset sale gains, net         13,043      321   12,722     N/M      21,307       603   20,704     N/M
+Other                          4,572    2,859    1,713    59.9       7,984     5,583    2,401    43.0
+                             --------------------------------------------------------------------------
+  Subtotal                  $ 55,978 $ 39,865 $ 16,113    40.4%   $103,624  $ 80,483 $ 23,141    28.8%
+Investment securities
+  gains (losses), net         (5,490)   1,023   (6,513)     N/M     (7,192)    4,612  (11,804)    N/M
+                             --------------------------------------------------------------------------
+Total noninterest income    $ 50,488 $ 40,888 $  9,600     23.5%    96,432  $ 85,095 $ 11,337    13.3%
+                             ==========================================================================
+
+Subtotal, net of asset
+  sale gains                $ 42,935 $ 39,544 $  3,391      8.6%  $ 82,317  $ 79,880 $  2,437     3.1%
+Subtotal, net of asset
+  sale gains and mortgage
+  banking income            $ 38,033 $ 31,501 $  6,532     20.7%  $ 72,825  $ 60,445 $ 12,380    20.5%
+=======================================================================================================
+N/M = not meaningful
+</TABLE>
+
+Trust service fees  increased  $460,000,  or 2.4%,  over the  comparable  period
+six-month period last year. The rising rate  environment and competitive  market
+conditions have slowed growth in trust business.
+
+Service charges on deposit  accounts were up $2.0 million,  or 14.5%,  primarily
+due to YTD00  benefiting  from the May 2000  and  1999  mid-year  increases  and
+changes in NSF and other service charges.
+
+Mortgage banking income consists of servicing fees, the gain or loss on sales of
+mortgage  loans  to  the  secondary  market,  and   production-related   revenue
+(origination,  underwriting and escrow waiver fees). Mortgage banking income for
+YTD00 decreased $9.9 million, or 51.2% from YTD99. Secondary mortgage production
+was down 82% from the  year-earlier  period which  adversely  impacted  gains on
+sales of mortgages (down $7.8 million,  or 86.9%), and volume-related fees (down
+$2.1 million, or 72.7%).
+
+Credit card and other nondeposit fees increased $2.9 million, or 29.9%, compared
+to YTD99.  The April  acquisition  agreement and the five year agency  agreement
+with  Citibank USA  ("Citi")  provide for agent fees and other income on new and
+existing card  business.  YTD00  includes $2.2 million from Citi.  The remaining
+increase was primarily  seen in merchant  discount  fees and certain  nondeposit
+service charges.
+
+Retail commission income  (brokerage and insurance  commissions)  increased $2.2
+million,  or 24.6%  compared to the same period last year.  The  majority of the
+increase is  insurance  related (up $1.7  million)  primarily  in fixed  annuity
+income (up $1.0 million) since the comparable period last year.
+
+BOLI income increased $2.5 million, or 70.0%,  between comparable  periods.  The
+increase  was  primarily  attributable  to the  timing  of the BOLI  investments
+purchased,  with $100  million in October  1998 and an  additional  $100 million
+investment made in May of 1999, and rate increases effective in March 2000. BOLI
+income is included in other noninterest income in the consolidated statements of
+income.
+
+Net asset sale gains  increased  $20.7 million versus YTD99,  due to the gain on
+sale of $128 million credit card receivables ($12.9 million) and the net premium
+on the sales of deposits of five branches ($8.2 million) during YTD00.
+
+Other noninterest  income increased $2.4 million,  or 43.0% from YTD99, of which
+$1.4 million was recognized in connection  with an interim  servicing  agreement
+with Citi  related to the credit card  receivable  sale which  concluded in June
+2000.
+
+Net investment  securities gains (losses)  decreased $11.8 million versus YTD99.
+The YTD00 net  losses of $7.2  million  were from  securities  sold to  mitigate
+interest  rate  risk and  enhance  future  yields.  The  YTD99 net gains of $4.6
+million were primarily due to the partial sale of an agency security.
+
+Noninterest Expense
+
+While YTD00 noninterest  expense ("NIE") was $159.6 million, up $4.5 million, or
+2.9%, compared to YTD99, the acquisitions  (Riverside and BNC) added nearly $8.1
+million  of  noninterest  expense  in the first six  months of 2000.  Therefore,
+excluding acquisitions the resulting net decrease in noninterest expense was the
+result of initiatives to control expenses. Primary categories that have impacted
+the change between  comparable  periods were data  processing and other NIE. See
+Table 5.
+
+
+
+<PAGE>
+
+
+
+<TABLE>
+- -------------------------------------------------------------------------------------------------------
+                                              TABLE 5
+                                        Noninterest Expense
+                                          ($ in Thousands)
+- -------------------------------------------------------------------------------------------------------
+                               2nd       2nd
+                               Qtr.      Qtr.    Dollar   Percent   YTD       YTD     Dollar   Percent
+                               2000      1999    Change   Change    2000      1999    Change   Change
+- -------------------------------------------------------------------------------------------------------
+<S>                          <C>       <C>       <C>       <C>      <C>       <C>      <C>      <C>
+Salaries and employee
+  benefits                   $ 38,916  $ 39,153  $  (237)   (0.6)%  $ 77,554  $ 77,383 $   171    0.2%
+Occupancy                       5,672     5,581       91     1.6      11,816    11,507     309    2.7
+Equipment                       3,755     3,725       30     0.8       7,852     7,417     435    5.9
+Data processing                 6,708     5,167    1,541    29.8      12,387    10,462   1,925   18.4
+Business development &
+  advertising                   3,269     3,270       (1)    ---       6,499     6,329     170    2.7
+Stationery and supplies         1,999     2,021      (22)   (1.1)      3,823     3,892     (69)  (1.8)
+FDIC expense                      421       716     (295)  (41.2)        898     1,578    (680  (43.1)
+Other                          20,291    16,888    3,403    20.2      38,813    36,537   2,276    6.2
+- -------------------------------------------------------------------------------------------------------
+  Total noninterest expense  $ 81,031  $ 76,521  $ 4,510     5.9%    159,642  $155,105 $ 4,537    2.9%
+=======================================================================================================
+</TABLE>
+
+
+Salaries and employee benefit expenses remained  essentially  unchanged at $77.6
+million, up only $171,000,  or 0.2%, from YTD99. Despite the additional staff of
+acquired entities,  which added approximately 136 full time equivalent employees
+("FTEs"),  the number of FTEs has been reduced primarily in operational areas as
+centralization  of  processes  and  other  operational-related   synergies  were
+achieved  throughout  1999 (with  approximately  100 fewer FTEs at June 30, 2000
+than a year ago).
+
+Occupancy  and  equipment on a combined  basis  increased to $19.7  million,  up
+$744,000,  or 3.9%,  over the  comparable  period  last year.  The  increase  is
+primarily  due to higher  rental  expenses  and  computer  depreciation  expense
+associated with computer upgrades during 1999 and 2000.
+
+Data processing  increased to $12.4 million,  up $1.9 million,  or 18.4%, to the
+same period last year. The majority of the increase is  attributable to software
+and system enhancements, volume-driven
+increases in processing costs and higher software maintenance.
+
+FDIC  expense  decreased  to  $898,000,  down  $680,000,  or 43.1%,  from YTD99,
+reflective  of the net rate  reduction in the combined  banking  insurance  fund
+(BIF) and savings association insurance fund (SAIF) effective for 2000.
+
+Other expenses were up $2.3 million,  or 6.2%,  over YTD99.  Mortgage  servicing
+rights amortization  increased $3.4 million since YTD99 included the reversal of
+$3.3 million of mortgage  servicing  rights  valuation  reserve,  and intangible
+amortization  expense  increased  $1.0  million due to the  acquisitions.  These
+increases  were offset by lower  professional  fees (down $2.1  million  between
+periods, principally due to $1.8 million of Y2K consulting expenses in YTD99).
+
+Income Taxes
+
+Income tax expense for YTD00 was $33.8  million,  down $2.7 million or 7.3% from
+YTD99.  The  effective  tax rate  (income tax expense  divided by income  before
+taxes) was 28.1% and 31.7% for YTD00 and YTD99,  respectively.  This decrease is
+primarily the result of the tax benefit of increased  municipal  securities (the
+average balance of municipal securities increased 64% since YTD99), BOLI income,
+and the utilization of tax loss carryforwards. Balance Sheet
+
+At June 30,  2000,  total  assets  reached  $13.0  billion,  an increase of $1.4
+billion, or 11.8%, over June 30, 1999. The growth is in part due to the purchase
+acquisitions  (see Note 3 in the notes to  consolidated  financial  statements).
+Riverside  and BNC  accounted for $477 million  (including  intangibles)  of the
+increase  between  the  comparable  year-to-date  periods.   Excluding  the  two
+acquisitions, the year-over-year growth rate of total assets was 7.7%.
+
+Period end loans grew $1.1 billion or 13.9% since June 30,  1999,  predominately
+in commercial-oriented loans (CF&A loans, commercial real estate and real estate
+construction  loans included in Table 6).  Excluding the net of the $299 million
+of loans  acquired  (Riverside  and BNC) and the $128  million  of  credit  card
+receivable sold,  loans grew  year-over-year  by  approximately  $891 million or
+11.7%.
+
+Period end deposits grew $756 million or 8.9% since June 30, 1999,  primarily in
+brokered CDs (up $759 million).  Total deposits  excluding brokered CDs ("retail
+deposits")  were  relatively  unchanged,  down $3.3  million or 0.04%;  however,
+excluding the net of the  acquisitions  ($337  million) and branch sales ($139),
+retail  deposits  were down  approximately  $199  million,  or 2.4%.  One of the
+primary factors influencing deposit growth has been due to competitive pressures
+from other investment opportunities available to customers.
+
+Since year-end 1999, total assets grew $478 million,  primarily in loans.  Loans
+increased  $353  million  (8.5%  annualized),  to $8.7 billion at June 30, 2000.
+Deposits increased $554 million (12.8% annualized),  to $9.2 billion at June 30,
+2000.
+
+<TABLE>
+- -------------------------------------------------------------------------------------------------
+                                            TABLE 6
+                                  Period End Loan Composition
+                                        ($ in Thousands)
+- -------------------------------------------------------------------------------------------------
+                                  June 30,    % of      June 30,     % of      Dec. 31,    % of
+                                    2000      Total       1999       Total       1999      Total
+- -------------------------------------------------------------------------------------------------
+<S>                              <C>           <C>    <C>           <C>     <C>            <C>
+Commercial, financial
+  & agricultural
+  ("CF&A loans")                 $ 1,552,203    18%   $ 1,188,765     16%   $  1,412,338    17%
+Real estate-construction             564,084     6        481,200      6         560,450     7
+Real estate-mortgage/commercial    2,265,142    26      1,612,011     21       1,903,633    23
+Real estate-mortgage/residential   3,695,456    43      3,580,185     47       3,683,344    44
+Installment loans to individuals     597,049     7        748,656     10         760,106     9
+Lease financing                       22,483    --         23,759     --          23,229    --
+                                 ----------------------------------------------------------------
+Total loans                     $  8,696,417   100%   $ 7,634,576    100%   $  8,343,100   100%
+                                 ================================================================
+- -------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+
+<PAGE>
+
+<TABLE>
+- -------------------------------------------------------------------------------------------------
+                                            TABLE 7
+                                 Period End Deposit Composition
+                                        ($ in Thousands)
+- -------------------------------------------------------------------------------------------------
+                                  June 30,    % of      June 30,     % of      Dec. 31,    % of
+                                    2000      Total       1999       Total       1999      Total
+- -------------------------------------------------------------------------------------------------
+<S>                             <C>            <C>    <C>           <C>     <C>            <C>
+Demand                          $  1,131,871    12%   $   973,854     11%   $  1,103,931    13%
+Savings                              968,610    11        934,188     11         838,201     9
+NOW                                  784,077     8        743,138      9         868,514    10
+Money Market                       1,366,995    15      1,366,095     16       1,483,779    17
+Brokered CDs                         966,755    10        207,731      3         337,243     4
+Other time                         4,027,083    44      4,264,680     50       4,060,161    47
+                                   --------------------------------------------------------------
+Total deposits                  $  9,245,391   100%     8,489,686   100%    $  8,691,829   100%
+                                   ==============================================================
+- -------------------------------------------------------------------------------------------------
+</TABLE>
+
+Allowance For Loan Losses
+
+The loan  portfolio is the  Corporation's  primary asset subject to credit risk.
+Credit risk is controlled and monitored through the use of lending standards,  a
+thorough  review of potential  borrowers,  and  on-going  review of loan payment
+performance.  Active asset quality administration,  including early problem loan
+identification  and timely resolution of problems,  further ensures  appropriate
+management of credit risk and minimization of loan losses.
+
+
+- --------------------------------------------------------------------------------
+                                     TABLE 8
+               Allowance for Loan Losses and Nonperforming Assets
+                                ($ in Thousands)
+- --------------------------------------------------------------------------------
+                                            At and for the       At and for the
+                                           Six months ended        year ended
+                                               June 30,            December 31,
+- --------------------------------------------------------------------------------
+                                             2000         1999         1999
+                                         ------------------------------------
+Allowance for Loan Losses (AFLL):
+Balance at beginning of period           $ 113,196    $  99,677    $  99,677
+Balance related to acquisitions                ---        2,037        8,016
+Decrease from sale of credit
+  card receivables                          (4,216)         ---          ---
+Provision for loan losses                   10,881        8,998       19,243
+Charge-offs                                 (5,758)      (7,969)     (16,621)
+Recoveries                                   1,292          992        2,881
+                                         ------------------------------------
+    Net charge-offs (NCOs)                  (4,466)      (6,977)     (13,740)
+                                         ------------------------------------
+Balance at end of period                 $ 115,395    $ 103,735    $ 113,196
+                                         ====================================
+
+Nonperforming Assets (NPAs):
+Nonaccrual loans                         $  35,155    $  37,431    $  32,076
+Accruing loans past due 90
+  days or more                               4,886        4,243        4,690
+Restructured loans                             ---          283          148
+                                         ------------------------------------
+Total nonperforming loans (NPLs)            40,041       41,957       36,914
+Other real estate owned (OREO)               3,954        9,759        3,740
+                                         ------------------------------------
+    Total nonperforming assets           $  43,995    $  51,716    $  40,654
+                                         ====================================
+
+Ratios:
+AFLL to NCOs (annualized)                    12.85         7.37         8.24
+NCOs to average loans (annualized)            0.11%        0.19%        0.18%
+AFLL to total loans                           1.33%        1.36%        1.36%
+NPLs to total loans                           0.46%        0.55%        0.44%
+NPAs to total assets                          0.34%        0.44%        0.32%
+AFLL to NPLs                                   288%         247%         307%
+- --------------------------------------------------------------------------------
+
+As of June 30, 2000, the allowance for loan losses  ("AFLL") was $115.4 million,
+representing 1.33% of loans outstanding, compared to $103.7 million (or 1.36% of
+loans) at June 30,  1999,  and $113.2  million  (or 1.36% of loans) at  year-end
+1999.
+
+The AFLL at June 30, 2000 was up $11.7  million  since June 30,  1999,  of which
+$6.0 million was acquired with the purchase  transactions during the second half
+of 1999,  offset by a $4.2 million  decrease  related to the sale of credit card
+receivables  in the second  quarter of 2000.  Period end loans grew $1.1 billion
+since June 30, 1999,  predominately  in  commercial-oriented  loans (CF&A loans,
+commercial real estate and real estate  construction  loans included in Table 6)
+which  by  their  nature  carry  greater   inherent  credit  risk.  The  mix  of
+commercial-oriented  loans  increased as a percent of total loans to 50% at June
+30, 2000, compared to 43% last year.
+
+
+The AFLL at June 30, 2000, increased $2.2 million since December 31, 1999. Since
+year-end  1999,  the  AFLL  was  decreased  by  $4.2  million   related  to  the
+aforementioned  sale  of  the  credit  card  portfolio,  but  increased  through
+provision for loan losses in connection with loan growth.  Period end loans grew
+$353 million since year-end, commercial-oriented loans increased to 50% of total
+loans at June 30, 2000,  compared to 47% at December 31, 1999. The AFLL was 288%
+of  nonperforming  loans  compared to 247% and 307% at June 30 and  December 31,
+1999,  respectively.  Table 8 provides additional information regarding activity
+in the AFLL.
+
+Charge-offs  were $5.8  million  for  YTD00,  $8.0  million  for YTD99 and $16.6
+million for year-end 1999, while recoveries for the  corresponding  periods were
+$1.3 million, $1.0 million and $2.9 million, respectively.
+
+The AFLL represents  management's  estimate of an amount adequate to provide for
+losses inherent in the loan portfolio.  Management's  evaluation of the adequacy
+of the AFLL is based on  management's  ongoing  review  and  grading of the loan
+portfolio,  consideration of past loan loss  experience,  trends in past due and
+nonperforming  loans, risk  characteristics  of the various  classifications  of
+loans, current economic conditions, the fair value of underlying collateral, and
+other factors which could affect credit losses.
+
+Management  believes the AFLL to be adequate at June 30, 2000.  While management
+uses available  information to recognize losses on loans,  future adjustments to
+the AFLL may be necessary based on changes in economic conditions and the impact
+of such change on the  Corporation's  borrowers.  As an  integral  part of their
+examination  process,  various  regulatory  agencies also review the AFLL.  Such
+agencies may require that  changes in the AFLL be  recognized  when their credit
+evaluations  differ from those of  management,  based on their  judgments  about
+information available to them at the time of their examination.
+
+Nonperforming Loans And Other Real Estate Owned
+
+Management's philosophy of the identification of nonaccrual and problem loans is
+embodied  through the ongoing  monitoring  and reviewing of all pools of risk in
+the loan portfolio to ensure that problem loans are  identified  quickly and the
+risk of loss is minimized.
+
+Nonperforming  loans ("NPLs") are considered an indicator of future loan losses.
+NPLs are defined as nonaccrual  loans,  loans 90 days or more past due but still
+accruing and restructured loans. The Corporation  specifically  excludes student
+loan balances that are 90 days or more past due and still accruing and that have
+contractual  government  guarantees  as to collection of principal and interest,
+from its definition of NPLs. The  Corporation  had $17 million,  $11 million and
+$17 million of these loans at June 30,  2000,  June 30,  1999,  and December 31,
+1999, respectively.
+
+Table 8 provides detailed information regarding nonperforming assets. Total NPLs
+at June 30, 2000 were $40.0 million, down $1.9 million and up $3.1 million, from
+June 30 and December 31, 1999, respectively. The ratio of nonperforming loans to
+total loans for the  corresponding  periods was .46%,  .55% and .44% at June 30,
+2000,  June 30, 1999 and  December  31,  1999,  respectively.  Nonaccrual  loans
+account  for  approximately  $2.3  million  of  the  decrease  in  NPLs  between
+comparable  periods.  Nonaccrual  commercial and industrial loans increased $3.5
+million,  while all other  categories  decreased by $5.8 million  since June 30,
+1999.
+
+OREO was $4.0 million at June 30, 2000, down significantly ($5.8 million) from a
+year ago, and up slightly ($214,000) from December 31, 1999.  Approximately $4.0
+million of the change between periods was primarily due to one large  commercial
+property that was included in OREO at June 30, 1999 and subsequently sold before
+year-end  1999.  Potential  problem loans are loans where there are doubts as to
+the ability of the borrower to comply with present repayment terms. The decision
+of management to place loans in this category does not necessarily mean that the
+Corporation expects losses to occur but that management recognizes that a higher
+degree of risk is  associated  with these  performing  loans.  At June 30, 2000,
+potential problem loans totaled $130 million.  The loans that have been reported
+as  potential  problem  loans are not  concentrated  in a  particular  industry.
+Management  does not presently  expect  significant  losses from credits in this
+category.
+
+Liquidity
+
+Effective liquidity  management ensures the cash flow requirements of depositors
+and borrowers, as well as the operating cash needs of the Corporation, are met.
+
+Funds  are  available  from  a  number  of  sources,  including  the  securities
+portfolio,  the core deposit base, lines of credit with major banks, the ability
+to acquire  large  deposits,  and the ability to securitize or package loans for
+sale.  Additionally,  liquidity is provided from loans and securities repayments
+and maturities.
+
+The parent company's primary funding sources to meet its liquidity  requirements
+are dividends and service fees from  subsidiaries,  borrowings with major banks,
+and  proceeds  from the  issuance  of equity.  The parent  company  manages  its
+liquidity   position  to  provide  the  funds  necessary  to  pay  dividends  to
+stockholders, service debt, invest in subsidiaries, repurchase common stock, and
+satisfy other operating requirements.  Additionally, the parent company had $225
+million of established  lines of credit with  nonaffiliated  banks, of which $96
+million was outstanding at June 30, 2000.
+
+The subsidiary  banks are subject to regulation and, among other things,  may be
+limited  in their  ability  to pay  dividends  or  transfer  funds to the parent
+company.  Accordingly,  consolidated cash flows as presented in the consolidated
+statements of cash flows may not represent  cash  immediately  available for the
+payment of cash dividends to the Corporation's stockholders.
+
+During 1999, the parent company and its four largest subsidiary banks were rated
+by  Moody's  and  Standard  and  Poor's  (S&P).  These  ratings,  along with the
+Corporation's  other ratings,  provide  opportunity for greater funding capacity
+and funding alternatives.
+
+Capital
+
+On April 26, 2000, the Board of Directors declared a 10% stock dividend, payable
+June 15 to  shareholders of record at the close of business on June 1. All share
+and per share data in the  accompanying  consolidated  financial  statements has
+been adjusted to reflect the 10% stock  dividend  paid. As a result of the stock
+dividend, the Corporation distributed 6.3 million shares of common stock, common
+stock was  increased by $63,000,  surplus was  increased  by $151.2  million and
+retained  earnings  were  decreased by $151.2  million.  Any  fractional  shares
+resulting from the dividend were paid in cash.
+
+Stockholders'  equity at June 30, 2000 increased to $930.2 million,  compared to
+$897.2  million at June 30, 1999. The increase in equity between the two periods
+was  primarily  composed of the  retention of earnings and the exercise of stock
+options,  with offsetting  decreases to equity from the payment of dividends and
+the repurchase of common stock.  Additionally,  stockholders' equity at June 30,
+2000,  included a $42.9 million equity component  (included in accumulated other
+comprehensive    loss)    related   to    unrealized    losses   on   securities
+available-for-sale,  net of the tax effect,  predominantly  due to the impact of
+the rising rate environment on that portfolio.  At June 30, 1999,  stockholders'
+equity  included  $9.6  million  related  to  unrealized  losses  on  securities
+available-for-sale,  net of the tax effect.  The ratio of  period-end  equity to
+assets at June 30, 2000 was 7.16%, compared to 7.72% at June 30, 1999.
+
+Stockholders'  equity grew $20.4 million since  year-end  1999.  The increase in
+equity  between the two  periods was  primarily  composed  of the  retention  of
+earnings and the exercise of stock options,  with offsetting decreases to equity
+from the payment of dividends and the repurchase of common stock.  Additionally,
+stockholders'  equity at year-end,  included a $38.8  million  equity  component
+(included in accumulated other  comprehensive loss) related to unrealized losses
+on securities  available-for-sale,  net of the tax effect,  predominantly due to
+the  impact of the  rising  rate  environment  on that  portfolio.  The ratio of
+period-end  equity to assets at June 30,  2000 was 7.16%,  compared  to 7.27% at
+December 31, 1999.
+
+The Board of Directors ("BOD") has authorized management to repurchase shares of
+the Corporation's  common stock each quarter in the market, to be made available
+for issuance in connection with the Corporation's  employee  incentive plans and
+for other corporate purposes. The BOD authorized the repurchase of up to 330,000
+shares  per  quarter  in  2000.  In March  2000,  the BOD  also  authorized  the
+repurchase and cancellation of up to 5% of the Corporation's outstanding shares,
+not to exceed  approximately 3.5 million shares.  During the six months of 2000,
+217,800 and  930,250  shares were  repurchased  under these two  authorizations,
+respectively, at a combined average cost of $24.17 per share.
+
+Cash  dividends of $0.5272 per share were paid,  representing  a payout ratio of
+42.18% for YTD00.
+
+The adequacy of the Corporation's  capital is regularly  reviewed to ensure that
+sufficient  capital  is  available  for  current  and  future  needs  and  is in
+compliance  with  regulatory  guidelines.  The  assessment  of  overall  capital
+adequacy  depends on a variety of factors,  including asset quality,  liquidity,
+stability of earnings,  changing  competitive  forces,  economic  conditions  in
+markets served and strength of management. The capital ratios of the Corporation
+and its banking  affiliates  are greater than  minimums  required by  regulatory
+guidelines. The Corporation's capital ratios are summarized in Table 9.
+
+
+
+<PAGE>
+
+
+
+
+
+
+                                     TABLE 9
+                                 Capital Ratios
+- --------------------------------------------------------------------------------
+                                Total Capital   Tier I Capital  Tier I Leverage
+- --------------------------------------------------------------------------------
+
+June 30, 2000                       11.30%          10.03%           6.86%
+December 31, 1999                   10.99%           9.72%           6.80%
+June 30, 1999                       11.83%          10.48%           7.49%
+Regulatory minimum
+  requirements for
+  well capitalized                  10.00%           6.00%           5.00%
+
+- --------------------------------------------------------------------------------
+
+Second Quarter Results
+
+Net income for second quarter 2000 ("2Q00") was $43.7  million,  up $3.8 million
+from the $39.9 million net income earned in the second quarter of 1999 ("2Q99").
+ROE was 19.06%, up 142 bp from 2Q99, while ROA remained virtually unchanged with
+a decrease of 1 bp to 1.39%.  Acquisition  activity (further described in Note 3
+of the notes to  consolidated  financial  statements)  impacted  the  comparable
+quarter  analysis.  Financial  results  of 2Q99 do not  include  results  of the
+Riverside and BNC purchase  acquisitions,  while 2Q00 included financial results
+of both acquisitions.  These acquisitions accounted for approximately  $538,000,
+net of funding costs, of the increase in net income between comparable quarters.
+FTE NII for 2Q00 was $101.7  million,  $1.0 million higher than 2Q99. The NIM of
+3.37% in 2Q00 was 37 bp lower  than the NIM of 3.74% in 2Q99  (see  Tables 2 and
+3). The acquisitions,  net of funding costs, added approximately $5.1 million to
+FTE NII between comparable quarters.
+
+Changes  in the  volume  and mix of  average  EAs  (such as the  combination  of
+internal  loan  growth  and loans  acquired,  offset by the sale of credit  card
+receivables)  contributed  $10.7  million to FTE NII,  while changes in the rate
+environment  impacted FTE NII unfavorably by $9.7 million (see Table 3). Average
+EA growth (up $1.2 billion to $11.9 billion) and a decrease in  interest-bearing
+deposits  excluding  brokered CDs (down $243 million),  was funded  primarily by
+higher-costing brokered CDs (up $801 million) and other wholesale funds (up $544
+million).
+
+The NIM  fell 37 bp to 3.37%  for  2Q00,  particularly  reflecting  the  balance
+sheet's  sensitivity  to rising  interest  rates (the average Fed funds rate for
+2Q00 was 151 bp higher than  2Q99),  greater  reliance on more costly  wholesale
+funds and brokered  CDs (which  represented  32.3% of IBLs for 2Q00  compared to
+21.8% for 2Q99), and the sale of the  higher-yielding  credit card  receivables,
+offset by positive NIM contributions  from acquisitions,  security  reinvestment
+opportunities, and earning asset growth.
+
+The  provision  for loan losses was up $619,000  over the provision for 2Q99, in
+part due to loan growth particularly in  commercial-oriented  loans (CF&A loans,
+commercial real estate and real estate construction loans). The AFLL to loans at
+June 30, 2000 was 1.33% compared to 1.36% at June 30, 1999 (see Table 8).
+
+Noninterest  income was $50.5  million for 2Q00,  up $9.6 million over 2Q99 (see
+Table 4). The change between  comparable  quarters was impacted by three primary
+components:  a) net asset sale gains (up $12.7 million, as a result of the $12.9
+million gain recorded on the sale of the credit card  receivables  in 2Q00),  b)
+net  investment  gains (losses)  (down $6.5 million,  principally  due to losses
+incurred on mortgage-related  securities sales in 2Q00), and c) mortgage banking
+income (down $3.1 million,  primarily due to a 72% decline in secondary mortgage
+loan production,  adversely  impacting gains on the sale of mortgages and volume
+related fees). Excluding these three components,  noninterest income was up $6.5
+million,  or 20.7%.  Increases were seen in all categories  except trust service
+fees which were relatively steady. Credit card and other nondeposit fees were up
+$2.2 million (42.5%), due to the previously mentioned Citi arrangement.  Service
+charges on deposit accounts in 2Q00 were up $1.4 million (21.2%) and include fee
+increases and changes in NSF and other service  charges.  Other income increased
+$1.7  million,  primarily due to $1.4 million  recognized in connection  with an
+interim  servicing  agreement  with Citi  related to the credit card  receivable
+sale.
+
+Noninterest  expense  for 2Q00 was up $4.5  million  over 2Q99 (see Table 5), in
+part  due  to a  $3.3  million  MSR  valuation  reversal  which  decreased  2Q99
+noninterest  expense,  a $1.5 million  increase in data processing  costs due to
+software and system enhancements in 2Q00, and higher intangible  amortization of
+$0.5  million  due to the timing of  acquisitions.  Partially  offsetting  these
+expense  increases  were lower FDIC  expense  (particularly  due to the net rate
+reduction  from the 2000  combined  BIF/SAIF  rate)  and other  expense  control
+initiatives  and  efficiencies  (such as  reductions  in salaries  and  employee
+benefits,  particularly due to fewer FTEs between the quarters, despite acquired
+FTEs). Taxes were down $539,000 between comparable quarters, due to the decrease
+in the effective  tax rate, at 28.0% for 2Q00 compared to 30.5% for 2Q99,  which
+was offset partially by the increase in income before taxes.
+
+Subsequent Event
+
+The  Corporation   continually  reviews  its  branch  distribution  network  for
+efficiencies  and  utilization  of resources.  In addition to the three branches
+sold  during  4Q99 and the five  branches  sold  during  1Q00,  the  Corporation
+completed  in July  2000 the sale of  deposits  of a  branch  location  with $26
+million in deposits. A net gain of approximately $2.9 million will be recognized
+in third quarter 2000.
+
+
+
+
+
+
+<PAGE>
+
+
+ITEM 3.  Quantitative and Qualitative Disclosures About Market Risk
+
+The  Corporation  has not  experienced  any material  changes to its market risk
+position since December 31, 1999, from that disclosed in the Corporation's  1999
+Form 10-K Annual Report.
+
+
+
+
+<PAGE>
+
+
+                              ASSOCIATED BANC-CORP
+          PART II - OTHER INFORMATION(UPDATED W/ CURRENT DATA 5/11/00)
+
+ITEM 4:   Submission of matters to a vote of security holders
+
+          (a)  The corporation  held its Annual Meeting of Shareholders on April
+               26,  2000.  Proxies  were  solicited  by  corporation  management
+               pursuant to Regulation 14A under the  Securities  Exchange Act of
+               1934.
+
+          (b)  Directors  elected at the Annual  Meeting  were Harry B.  Conlon,
+               Ronald R. Harder, J. Douglas Quick, and John H. Sproule.
+
+          (c)  The  matters  voted upon and the  results  of the voting  were as
+               follows:
+
+               (i)  Election  of  the  below-named  nominees  to  the  Board  of
+                    Directors of the Corporation:
+
+                                               FOR                WITHHELD
+
+                        All Nominees:          55,111,851         1,036,359
+
+                        By Nominee:
+
+                        Harry B. Conlon        53,906,779         1,241,431
+                        Ronald R. Harder       53,968,221         1,179,989
+                        J. Douglas Quick       54,007,163         1,141,047
+                        John H. Sproule        53,851,350         1,296,860
+
+               (ii) Ratification  of the  selection  of KPMG LLP as  independent
+                    auditors  of  Associated  for the year ending  December  31,
+                    2000.
+
+                        FOR                    AGAINST            ABSTAIN
+
+                        54,673,136             198,417            276,657
+
+          (d)  Not applicable
+
+
+
+
+
+<PAGE>
+
+
+ITEM 6:   Exhibits and Reports on Form 8-K
+
+          (a)  Exhibits:
+
+               Exhibit  11,   Statement   regarding   computation  of  per-share
+               earnings.  See  Note 5 of the  notes  to  consolidated  financial
+               statements in Part I Item I.
+
+               Exhibit   27,   Financial   data   schedule.   Included   in  the
+               electronically filed document as required.
+
+          (b)  Reports on Form 8-K:
+
+          There were no reports on Form 8-K filed for the six months  ended June
+          30, 2000.
+
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned hereunto duly authorized.
+
+                                      ASSOCIATED BANC-CORP
+                                      (Registrant)
+
+
+Date:  August 11, 2000                /s/ Robert C. Gallagher
+                                          -----------------------
+                                          Robert C. Gallagher
+                                          President and Chief Executive Officer
+
+
+Date:  August 11, 2000                /s/ Joseph B. Selner
+                                          --------------------
+                                          Joseph B. Selner
+                                          Principal Financial Officer
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>FDS --
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                                            9
+
+
+<S>                                  <C>
+<PERIOD-TYPE>                        6-MOS
+<FISCAL-YEAR-END>                             DEC-31-2000
+<PERIOD-END>                                  JUN-30-2000
+<CASH>                                            338,727
+<INT-BEARING-DEPOSITS>                              4,721
+<FED-FUNDS-SOLD>                                  116,320
+<TRADING-ASSETS>                                        0
+<INVESTMENTS-HELD-FOR-SALE>                     2,848,595
+<INVESTMENTS-CARRYING>                            391,414
+<INVESTMENTS-MARKET>                                    0
+<LOANS>                                         8,696,417
+<ALLOWANCE>                                      (115,395)
+<TOTAL-ASSETS>                                 12,998,259
+<DEPOSITS>                                      9,245,391
+<SHORT-TERM>                                    2,555,837
+<LIABILITIES-OTHER>                               144,016
+<LONG-TERM>                                       122,792
+<PREFERRED-MANDATORY>                                   0
+<PREFERRED>                                             0
+<COMMON>                                              688
+<OTHER-SE>                                        929,535
+<TOTAL-LIABILITIES-AND-EQUITY>                 12,998,259
+<INTEREST-LOAN>                                   349,889
+<INTEREST-INVEST>                                  99,871
+<INTEREST-OTHER>                                    1,311
+<INTEREST-TOTAL>                                  451,071
+<INTEREST-DEPOSIT>                                173,695
+<INTEREST-EXPENSE>                                256,360
+<INTEREST-INCOME-NET>                             194,711
+<LOAN-LOSSES>                                      10,881
+<SECURITIES-GAINS>                                 (7,192)
+<EXPENSE-OTHER>                                    38,813
+<INCOME-PRETAX>                                   120,620
+<INCOME-PRE-EXTRAORDINARY>                        120,620
+<EXTRAORDINARY>                                         0
+<CHANGES>                                               0
+<NET-INCOME>                                       86,778
+<EPS-BASIC>                                        1.25
+<EPS-DILUTED>                                        1.25
+<YIELD-ACTUAL>                                       7.72
+<LOANS-NON>                                        35,155
+<LOANS-PAST>                                        4,886
+<LOANS-TROUBLED>                                        0
+<LOANS-PROBLEM>                                   130,000
+<ALLOWANCE-OPEN>                                  113,196
+<CHARGE-OFFS>                                       5,758
+<RECOVERIES>                                        1,292
+<ALLOWANCE-CLOSE>                                 115,395
+<ALLOWANCE-DOMESTIC>                              115,395
+<ALLOWANCE-FOREIGN>                                     0
+<ALLOWANCE-UNALLOCATED>                                 0
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
